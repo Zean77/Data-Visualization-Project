@@ -1,0 +1,1428 @@
+country,iso_code,date,total_vaccinations,people_vaccinated,daily_vaccinations,daily_vaccinations_per_million,vaccines
+Argentina,ARG,12/29/20,700,,,,Sputnik V
+Argentina,ARG,12/30/20,,,15656,346,Sputnik V
+Argentina,ARG,12/31/20,32013,,15656,346,Sputnik V
+Argentina,ARG,1/1/21,,,11070,245,Sputnik V
+Argentina,ARG,1/2/21,,,8776,194,Sputnik V
+Argentina,ARG,1/3/21,,,7400,164,Sputnik V
+Argentina,ARG,1/4/21,39599,,6483,143,Sputnik V
+Argentina,ARG,1/5/21,,,7984,177,Sputnik V
+Argentina,ARG,1/6/21,,,8173,181,Sputnik V
+Argentina,ARG,1/7/21,,,8363,185,Sputnik V
+Argentina,ARG,1/8/21,107542,,10519,233,Sputnik V
+Argentina,ARG,1/9/21,,,11942,264,Sputnik V
+Argentina,ARG,1/10/21,,,13365,296,Sputnik V
+Argentina,ARG,1/11/21,,,14788,327,Sputnik V
+Argentina,ARG,1/12/21,,,14056,311,Sputnik V
+Argentina,ARG,1/13/21,166833,,13323,295,Sputnik V
+Argentina,ARG,1/14/21,,,13320,295,Sputnik V
+Argentina,ARG,1/15/21,200759,,13317,295,Sputnik V
+Argentina,ARG,1/16/21,,,12971,287,Sputnik V
+Argentina,ARG,1/17/21,,,12624,279,Sputnik V
+Argentina,ARG,1/18/21,,,12278,272,Sputnik V
+Argentina,ARG,1/19/21,,,11932,264,Sputnik V
+Argentina,ARG,1/20/21,247933,243539,11586,256,Sputnik V
+Argentina,ARG,1/21/21,265724,249372,11704,259,Sputnik V
+Argentina,ARG,1/22/21,279602,254456,11263,249,Sputnik V
+Argentina,ARG,1/23/21,288064,258876,11124,246,Sputnik V
+Argentina,ARG,1/24/21,292023,260036,10342,229,Sputnik V
+Austria,AUT,1/5/21,8360,8360,,,Pfizer/BioNTech
+Austria,AUT,1/6/21,,,3368,374,Pfizer/BioNTech
+Austria,AUT,1/7/21,15095,15095,3368,374,Pfizer/BioNTech
+Austria,AUT,1/8/21,30150,30150,7263,806,Pfizer/BioNTech
+Austria,AUT,1/9/21,31525,31525,5791,643,Pfizer/BioNTech
+Austria,AUT,1/10/21,31885,31885,4705,522,Pfizer/BioNTech
+Austria,AUT,1/11/21,38545,38545,5031,559,Pfizer/BioNTech
+Austria,AUT,1/12/21,52925,52925,6366,707,Pfizer/BioNTech
+Austria,AUT,1/13/21,63280,63280,7365,818,Pfizer/BioNTech
+Austria,AUT,1/14/21,74100,74100,8429,936,Pfizer/BioNTech
+Austria,AUT,1/15/21,84380,84380,7747,860,Pfizer/BioNTech
+Austria,AUT,1/16/21,87195,87195,7953,883,Pfizer/BioNTech
+Austria,AUT,1/17/21,102790,102790,10129,1125,Pfizer/BioNTech
+Austria,AUT,1/18/21,,,11852,1316,Pfizer/BioNTech
+Austria,AUT,1/19/21,140232,140232,12472,1385,Pfizer/BioNTech
+Austria,AUT,1/20/21,150703,150703,12489,1387,Pfizer/BioNTech
+Austria,AUT,1/21/21,161965,161965,12552,1394,Pfizer/BioNTech
+Austria,AUT,1/22/21,166956,166956,11797,1310,Pfizer/BioNTech
+Austria,AUT,1/23/21,169549,169549,11765,1306,Pfizer/BioNTech
+Austria,AUT,1/24/21,170144,170144,9622,1068,Pfizer/BioNTech
+Bahrain,BHR,12/23/20,38965,38965,,,"Pfizer/BioNTech, Sinopharm"
+Bahrain,BHR,12/24/20,50071,50071,11106,6527,"Pfizer/BioNTech, Sinopharm"
+Bahrain,BHR,12/25/20,50543,50543,5789,3402,"Pfizer/BioNTech, Sinopharm"
+Bahrain,BHR,12/26/20,51556,51556,4197,2467,"Pfizer/BioNTech, Sinopharm"
+Bahrain,BHR,12/27/20,53614,53614,3662,2152,"Pfizer/BioNTech, Sinopharm"
+Bahrain,BHR,12/28/20,55014,55014,3210,1886,"Pfizer/BioNTech, Sinopharm"
+Bahrain,BHR,12/29/20,56041,56041,2846,1673,"Pfizer/BioNTech, Sinopharm"
+Bahrain,BHR,12/30/20,57317,57317,2622,1541,"Pfizer/BioNTech, Sinopharm"
+Bahrain,BHR,12/31/20,58643,58643,1225,720,"Pfizer/BioNTech, Sinopharm"
+Bahrain,BHR,1/1/21,59351,59351,1258,739,"Pfizer/BioNTech, Sinopharm"
+Bahrain,BHR,1/2/21,60097,60097,1220,717,"Pfizer/BioNTech, Sinopharm"
+Bahrain,BHR,1/3/21,60689,60689,1011,594,"Pfizer/BioNTech, Sinopharm"
+Bahrain,BHR,1/4/21,61612,61612,943,554,"Pfizer/BioNTech, Sinopharm"
+Bahrain,BHR,1/5/21,63893,63893,1122,659,"Pfizer/BioNTech, Sinopharm"
+Bahrain,BHR,1/6/21,68472,68472,1594,937,"Pfizer/BioNTech, Sinopharm"
+Bahrain,BHR,1/7/21,72239,72239,1942,1141,"Pfizer/BioNTech, Sinopharm"
+Bahrain,BHR,1/8/21,78291,78291,2706,1590,"Pfizer/BioNTech, Sinopharm"
+Bahrain,BHR,1/9/21,84157,84157,3437,2020,"Pfizer/BioNTech, Sinopharm"
+Bahrain,BHR,1/10/21,89250,89250,4080,2398,"Pfizer/BioNTech, Sinopharm"
+Bahrain,BHR,1/11/21,92598,92598,4427,2602,"Pfizer/BioNTech, Sinopharm"
+Bahrain,BHR,1/12/21,97776,97776,4840,2844,"Pfizer/BioNTech, Sinopharm"
+Bahrain,BHR,1/13/21,101363,101363,4699,2762,"Pfizer/BioNTech, Sinopharm"
+Bahrain,BHR,1/14/21,109566,109566,5332,3134,"Pfizer/BioNTech, Sinopharm"
+Bahrain,BHR,1/15/21,122819,122819,6361,3738,"Pfizer/BioNTech, Sinopharm"
+Bahrain,BHR,1/16/21,137159,137159,7572,4450,"Pfizer/BioNTech, Sinopharm"
+Bahrain,BHR,1/17/21,141563,141563,7473,4392,"Pfizer/BioNTech, Sinopharm"
+Bahrain,BHR,1/18/21,142831,142831,7176,4217,"Pfizer/BioNTech, Sinopharm"
+Bahrain,BHR,1/19/21,143596,143596,6546,3847,"Pfizer/BioNTech, Sinopharm"
+Bahrain,BHR,1/20/21,144130,144130,6110,3591,"Pfizer/BioNTech, Sinopharm"
+Belgium,BEL,12/28/20,298,298,,,Pfizer/BioNTech
+Belgium,BEL,12/29/20,299,299,1,0,Pfizer/BioNTech
+Belgium,BEL,12/30/20,766,766,234,20,Pfizer/BioNTech
+Belgium,BEL,12/31/20,775,775,159,14,Pfizer/BioNTech
+Belgium,BEL,1/1/21,784,784,122,11,Pfizer/BioNTech
+Belgium,BEL,1/2/21,,,97,8,Pfizer/BioNTech
+Belgium,BEL,1/3/21,,,81,7,Pfizer/BioNTech
+Belgium,BEL,1/4/21,785,785,70,6,Pfizer/BioNTech
+Belgium,BEL,1/5/21,2283,2283,283,24,Pfizer/BioNTech
+Belgium,BEL,1/6/21,5916,5916,736,64,Pfizer/BioNTech
+Belgium,BEL,1/7/21,13757,13757,1855,160,Pfizer/BioNTech
+Belgium,BEL,1/8/21,22723,22723,3134,270,Pfizer/BioNTech
+Belgium,BEL,1/9/21,25830,25830,3578,309,Pfizer/BioNTech
+Belgium,BEL,1/10/21,26223,26223,3634,314,Pfizer/BioNTech
+Belgium,BEL,1/11/21,31573,31573,4398,379,Pfizer/BioNTech
+Belgium,BEL,1/12/21,46271,46271,6284,542,Pfizer/BioNTech
+Belgium,BEL,1/13/21,65822,65822,8558,738,Pfizer/BioNTech
+Belgium,BEL,1/14/21,85996,85996,10320,890,Pfizer/BioNTech
+Belgium,BEL,1/15/21,106885,106885,12023,1037,Pfizer/BioNTech
+Belgium,BEL,1/16/21,111552,111552,12246,1057,Pfizer/BioNTech
+Belgium,BEL,1/17/21,114298,114298,12582,1086,Pfizer/BioNTech
+Belgium,BEL,1/18/21,123517,123408,13135,1133,Pfizer/BioNTech
+Belgium,BEL,1/19/21,137279,137068,13001,1122,Pfizer/BioNTech
+Belgium,BEL,1/20/21,151375,151080,12222,1055,Pfizer/BioNTech
+Belgium,BEL,1/21/21,163783,163410,11112,959,Pfizer/BioNTech
+Belgium,BEL,1/22/21,174307,173899,9632,831,Pfizer/BioNTech
+Brazil,BRA,1/16/21,0,0,,,Sinovac
+Brazil,BRA,1/17/21,112,112,112,1,Sinovac
+Brazil,BRA,1/18/21,1109,1109,554,3,Sinovac
+Brazil,BRA,1/19/21,11470,11470,3823,18,Sinovac
+Brazil,BRA,1/20/21,28543,28543,7136,34,Sinovac
+Brazil,BRA,1/21/21,136519,136519,27304,128,Sinovac
+Brazil,BRA,1/22/21,245877,245877,40980,193,Sinovac
+Brazil,BRA,1/23/21,537774,537774,76825,361,Sinovac
+Brazil,BRA,1/24/21,604722,604722,86373,406,Sinovac
+Bulgaria,BGR,12/29/20,1719,1719,,,"Moderna, Pfizer/BioNTech"
+Bulgaria,BGR,12/30/20,4608,4608,2889,416,"Moderna, Pfizer/BioNTech"
+Bulgaria,BGR,12/31/20,,,1477,213,"Moderna, Pfizer/BioNTech"
+Bulgaria,BGR,1/1/21,4739,4739,1007,145,"Moderna, Pfizer/BioNTech"
+Bulgaria,BGR,1/2/21,,,799,115,"Moderna, Pfizer/BioNTech"
+Bulgaria,BGR,1/3/21,,,675,97,"Moderna, Pfizer/BioNTech"
+Bulgaria,BGR,1/4/21,,,592,85,"Moderna, Pfizer/BioNTech"
+Bulgaria,BGR,1/5/21,5448,5448,533,77,"Moderna, Pfizer/BioNTech"
+Bulgaria,BGR,1/6/21,7913,7913,472,68,"Moderna, Pfizer/BioNTech"
+Bulgaria,BGR,1/7/21,11117,11117,920,132,"Moderna, Pfizer/BioNTech"
+Bulgaria,BGR,1/8/21,13355,13355,1231,177,"Moderna, Pfizer/BioNTech"
+Bulgaria,BGR,1/9/21,13473,13473,1222,176,"Moderna, Pfizer/BioNTech"
+Bulgaria,BGR,1/10/21,,,1246,179,"Moderna, Pfizer/BioNTech"
+Bulgaria,BGR,1/11/21,14161,14161,1270,183,"Moderna, Pfizer/BioNTech"
+Bulgaria,BGR,1/12/21,15780,15780,1476,212,"Moderna, Pfizer/BioNTech"
+Bulgaria,BGR,1/13/21,17038,17038,1304,188,"Moderna, Pfizer/BioNTech"
+Bulgaria,BGR,1/14/21,17686,17686,938,135,"Moderna, Pfizer/BioNTech"
+Bulgaria,BGR,1/15/21,18126,18126,682,98,"Moderna, Pfizer/BioNTech"
+Bulgaria,BGR,1/16/21,18332,18332,694,100,"Moderna, Pfizer/BioNTech"
+Bulgaria,BGR,1/17/21,18453,18453,662,95,"Moderna, Pfizer/BioNTech"
+Bulgaria,BGR,1/18/21,19638,18524,782,113,"Moderna, Pfizer/BioNTech"
+Bulgaria,BGR,1/19/21,22226,19058,921,133,"Moderna, Pfizer/BioNTech"
+Bulgaria,BGR,1/20/21,24127,19834,1013,146,"Moderna, Pfizer/BioNTech"
+Bulgaria,BGR,1/21/21,25251,20719,1081,156,"Moderna, Pfizer/BioNTech"
+Bulgaria,BGR,1/22/21,26101,21496,1139,164,"Moderna, Pfizer/BioNTech"
+Bulgaria,BGR,1/23/21,26119,21509,1112,160,"Moderna, Pfizer/BioNTech"
+Canada,CAN,12/14/20,297,297,,,"Moderna, Pfizer/BioNTech"
+Canada,CAN,12/15/20,1163,1163,866,23,"Moderna, Pfizer/BioNTech"
+Canada,CAN,12/16/20,3683,3683,1693,45,"Moderna, Pfizer/BioNTech"
+Canada,CAN,12/17/20,7201,7201,2301,61,"Moderna, Pfizer/BioNTech"
+Canada,CAN,12/18/20,10615,10615,2580,68,"Moderna, Pfizer/BioNTech"
+Canada,CAN,12/19/20,11894,11894,2319,61,"Moderna, Pfizer/BioNTech"
+Canada,CAN,12/20/20,14492,14492,2366,63,"Moderna, Pfizer/BioNTech"
+Canada,CAN,12/21/20,20866,20866,2938,78,"Moderna, Pfizer/BioNTech"
+Canada,CAN,12/22/20,26287,26287,3589,95,"Moderna, Pfizer/BioNTech"
+Canada,CAN,12/23/20,35089,35089,4487,119,"Moderna, Pfizer/BioNTech"
+Canada,CAN,12/24/20,45398,45398,5457,145,"Moderna, Pfizer/BioNTech"
+Canada,CAN,12/25/20,45700,45700,5012,133,"Moderna, Pfizer/BioNTech"
+Canada,CAN,12/26/20,48719,48719,5261,139,"Moderna, Pfizer/BioNTech"
+Canada,CAN,12/27/20,52280,52280,5398,143,"Moderna, Pfizer/BioNTech"
+Canada,CAN,12/28/20,59449,59449,5512,146,"Moderna, Pfizer/BioNTech"
+Canada,CAN,12/29/20,70749,70749,6352,168,"Moderna, Pfizer/BioNTech"
+Canada,CAN,12/30/20,79482,79482,6342,168,"Moderna, Pfizer/BioNTech"
+Canada,CAN,12/31/20,95832,95832,7205,191,"Moderna, Pfizer/BioNTech"
+Canada,CAN,1/1/21,104347,104347,8378,222,"Moderna, Pfizer/BioNTech"
+Canada,CAN,1/2/21,112425,112425,9101,241,"Moderna, Pfizer/BioNTech"
+Canada,CAN,1/3/21,117727,117727,9350,248,"Moderna, Pfizer/BioNTech"
+Canada,CAN,1/4/21,136759,136759,11044,293,"Moderna, Pfizer/BioNTech"
+Canada,CAN,1/5/21,155527,155527,12111,321,"Moderna, Pfizer/BioNTech"
+Canada,CAN,1/6/21,183690,183690,14887,394,"Moderna, Pfizer/BioNTech"
+Canada,CAN,1/7/21,219464,219464,17662,468,"Moderna, Pfizer/BioNTech"
+Canada,CAN,1/8/21,261234,261234,22412,594,"Moderna, Pfizer/BioNTech"
+Canada,CAN,1/9/21,297352,297352,26418,700,"Moderna, Pfizer/BioNTech"
+Canada,CAN,1/10/21,321049,321049,29046,770,"Moderna, Pfizer/BioNTech"
+Canada,CAN,1/11/21,360160,360160,31914,846,"Moderna, Pfizer/BioNTech"
+Canada,CAN,1/12/21,388493,388493,33281,882,"Moderna, Pfizer/BioNTech"
+Canada,CAN,1/13/21,419209,419209,33646,891,"Moderna, Pfizer/BioNTech"
+Canada,CAN,1/14/21,459492,459492,34290,909,"Moderna, Pfizer/BioNTech"
+Canada,CAN,1/15/21,507687,507687,35208,933,"Moderna, Pfizer/BioNTech"
+Canada,CAN,1/16/21,543291,543291,35134,931,"Moderna, Pfizer/BioNTech"
+Canada,CAN,1/17/21,570742,570742,35670,945,"Moderna, Pfizer/BioNTech"
+Canada,CAN,1/18/21,614666,614666,36358,963,"Moderna, Pfizer/BioNTech"
+Canada,CAN,1/19/21,651139,651139,37521,994,"Moderna, Pfizer/BioNTech"
+Canada,CAN,1/20/21,696242,696242,39576,1049,"Moderna, Pfizer/BioNTech"
+Canada,CAN,1/21/21,738864,738864,39910,1057,"Moderna, Pfizer/BioNTech"
+Canada,CAN,1/22/21,776606,776606,38417,1018,"Moderna, Pfizer/BioNTech"
+Canada,CAN,1/23/21,801238,801238,36850,976,"Moderna, Pfizer/BioNTech"
+Chile,CHL,12/24/20,420,420,,,Pfizer/BioNTech
+Chile,CHL,12/25/20,5191,5191,4771,250,Pfizer/BioNTech
+Chile,CHL,12/26/20,8335,8335,3958,207,Pfizer/BioNTech
+Chile,CHL,12/27/20,8646,8646,2742,143,Pfizer/BioNTech
+Chile,CHL,12/28/20,,,2069,108,Pfizer/BioNTech
+Chile,CHL,12/29/20,,,1665,87,Pfizer/BioNTech
+Chile,CHL,12/30/20,,,1396,73,Pfizer/BioNTech
+Chile,CHL,12/31/20,,,1204,63,Pfizer/BioNTech
+Chile,CHL,1/1/21,,,530,28,Pfizer/BioNTech
+Chile,CHL,1/2/21,,,88,5,Pfizer/BioNTech
+Chile,CHL,1/3/21,,,51,3,Pfizer/BioNTech
+Chile,CHL,1/4/21,9051,9051,51,3,Pfizer/BioNTech
+Chile,CHL,1/5/21,10494,10494,250,13,Pfizer/BioNTech
+Chile,CHL,1/6/21,10699,10699,272,14,Pfizer/BioNTech
+Chile,CHL,1/7/21,,,344,18,Pfizer/BioNTech
+Chile,CHL,1/8/21,,,417,22,Pfizer/BioNTech
+Chile,CHL,1/9/21,,,489,26,Pfizer/BioNTech
+Chile,CHL,1/10/21,,,562,29,Pfizer/BioNTech
+Chile,CHL,1/11/21,,,635,33,Pfizer/BioNTech
+Chile,CHL,1/12/21,,,508,27,Pfizer/BioNTech
+Chile,CHL,1/13/21,14612,11743,559,29,Pfizer/BioNTech
+Chile,CHL,1/14/21,18526,12787,1038,54,Pfizer/BioNTech
+Chile,CHL,1/15/21,21876,13755,1437,75,Pfizer/BioNTech
+Chile,CHL,1/16/21,21937,13766,1366,71,Pfizer/BioNTech
+Chile,CHL,1/17/21,21972,13781,1291,68,Pfizer/BioNTech
+Chile,CHL,1/18/21,32385,24025,2699,141,Pfizer/BioNTech
+Chile,CHL,1/19/21,50924,42564,5267,276,Pfizer/BioNTech
+Chile,CHL,1/20/21,54036,45676,5632,295,Pfizer/BioNTech
+Chile,CHL,1/21/21,62822,54458,6328,331,Pfizer/BioNTech
+Chile,CHL,1/22/21,63047,54683,5882,308,Pfizer/BioNTech
+China,CHN,12/15/20,1500000,1500000,,,"CNBG, Sinovac"
+China,CHN,12/16/20,,,187500,130,"CNBG, Sinovac"
+China,CHN,12/17/20,,,187500,130,"CNBG, Sinovac"
+China,CHN,12/18/20,,,187500,130,"CNBG, Sinovac"
+China,CHN,12/19/20,,,187500,130,"CNBG, Sinovac"
+China,CHN,12/20/20,,,187500,130,"CNBG, Sinovac"
+China,CHN,12/21/20,,,187500,130,"CNBG, Sinovac"
+China,CHN,12/22/20,,,187500,130,"CNBG, Sinovac"
+China,CHN,12/23/20,,,187500,130,"CNBG, Sinovac"
+China,CHN,12/24/20,,,187500,130,"CNBG, Sinovac"
+China,CHN,12/25/20,,,187500,130,"CNBG, Sinovac"
+China,CHN,12/26/20,,,187500,130,"CNBG, Sinovac"
+China,CHN,12/27/20,,,187500,130,"CNBG, Sinovac"
+China,CHN,12/28/20,,,187500,130,"CNBG, Sinovac"
+China,CHN,12/29/20,,,187500,130,"CNBG, Sinovac"
+China,CHN,12/30/20,,,187500,130,"CNBG, Sinovac"
+China,CHN,12/31/20,4500000,4500000,187500,130,"CNBG, Sinovac"
+China,CHN,1/1/21,,,232143,161,"CNBG, Sinovac"
+China,CHN,1/2/21,,,276786,192,"CNBG, Sinovac"
+China,CHN,1/3/21,,,321429,223,"CNBG, Sinovac"
+China,CHN,1/4/21,,,366071,254,"CNBG, Sinovac"
+China,CHN,1/5/21,,,410714,285,"CNBG, Sinovac"
+China,CHN,1/6/21,,,455357,316,"CNBG, Sinovac"
+China,CHN,1/7/21,,,500000,347,"CNBG, Sinovac"
+China,CHN,1/8/21,,,500000,347,"CNBG, Sinovac"
+China,CHN,1/9/21,9000000,9000000,500000,347,"CNBG, Sinovac"
+China,CHN,1/10/21,,,464286,323,"CNBG, Sinovac"
+China,CHN,1/11/21,,,428571,298,"CNBG, Sinovac"
+China,CHN,1/12/21,,,392857,273,"CNBG, Sinovac"
+China,CHN,1/13/21,10000000,10000000,357143,248,"CNBG, Sinovac"
+China,CHN,1/14/21,,,387755,269,"CNBG, Sinovac"
+China,CHN,1/15/21,,,418367,291,"CNBG, Sinovac"
+China,CHN,1/16/21,,,448980,312,"CNBG, Sinovac"
+China,CHN,1/17/21,,,515306,358,"CNBG, Sinovac"
+China,CHN,1/18/21,,,581633,404,"CNBG, Sinovac"
+China,CHN,1/19/21,,,647959,450,"CNBG, Sinovac"
+China,CHN,1/20/21,15000000,15000000,714286,496,"CNBG, Sinovac"
+Costa Rica,CRI,12/24/20,55,,,,Pfizer/BioNTech
+Costa Rica,CRI,12/25/20,,,240,47,Pfizer/BioNTech
+Costa Rica,CRI,12/26/20,,,240,47,Pfizer/BioNTech
+Costa Rica,CRI,12/27/20,,,240,47,Pfizer/BioNTech
+Costa Rica,CRI,12/28/20,,,240,47,Pfizer/BioNTech
+Costa Rica,CRI,12/29/20,,,240,47,Pfizer/BioNTech
+Costa Rica,CRI,12/30/20,,,240,47,Pfizer/BioNTech
+Costa Rica,CRI,12/31/20,,,240,47,Pfizer/BioNTech
+Costa Rica,CRI,1/1/21,,,240,47,Pfizer/BioNTech
+Costa Rica,CRI,1/2/21,,,240,47,Pfizer/BioNTech
+Costa Rica,CRI,1/3/21,2455,,240,47,Pfizer/BioNTech
+Costa Rica,CRI,1/4/21,,,414,81,Pfizer/BioNTech
+Costa Rica,CRI,1/5/21,,,588,115,Pfizer/BioNTech
+Costa Rica,CRI,1/6/21,,,763,150,Pfizer/BioNTech
+Costa Rica,CRI,1/7/21,,,937,184,Pfizer/BioNTech
+Costa Rica,CRI,1/8/21,9751,,1111,218,Pfizer/BioNTech
+Costa Rica,CRI,1/9/21,,,1385,272,Pfizer/BioNTech
+Costa Rica,CRI,1/10/21,,,1659,326,Pfizer/BioNTech
+Costa Rica,CRI,1/11/21,,,1759,345,Pfizer/BioNTech
+Costa Rica,CRI,1/12/21,,,1859,365,Pfizer/BioNTech
+Costa Rica,CRI,1/13/21,,,1959,385,Pfizer/BioNTech
+Costa Rica,CRI,1/14/21,,,2058,404,Pfizer/BioNTech
+Costa Rica,CRI,1/15/21,24859,24804,2158,424,Pfizer/BioNTech
+Costa Rica,CRI,1/16/21,,,2066,406,Pfizer/BioNTech
+Costa Rica,CRI,1/17/21,,,1973,387,Pfizer/BioNTech
+Costa Rica,CRI,1/18/21,29389,29257,1880,369,Pfizer/BioNTech
+Croatia,HRV,12/30/20,7864,7864,,,Pfizer/BioNTech
+Croatia,HRV,12/31/20,,,1105,269,Pfizer/BioNTech
+Croatia,HRV,1/1/21,,,1105,269,Pfizer/BioNTech
+Croatia,HRV,1/2/21,,,1105,269,Pfizer/BioNTech
+Croatia,HRV,1/3/21,12285,12285,1105,269,Pfizer/BioNTech
+Croatia,HRV,1/4/21,,,1036,252,Pfizer/BioNTech
+Croatia,HRV,1/5/21,13798,13798,989,241,Pfizer/BioNTech
+Croatia,HRV,1/6/21,,,1334,325,Pfizer/BioNTech
+Croatia,HRV,1/7/21,20603,20603,1662,405,Pfizer/BioNTech
+Croatia,HRV,1/8/21,24985,24985,2130,519,Pfizer/BioNTech
+Croatia,HRV,1/9/21,30000,30000,2689,655,Pfizer/BioNTech
+Croatia,HRV,1/10/21,,,2693,656,Pfizer/BioNTech
+Croatia,HRV,1/11/21,,,2748,669,Pfizer/BioNTech
+Croatia,HRV,1/12/21,,,2802,683,Pfizer/BioNTech
+Croatia,HRV,1/13/21,34553,34553,2479,604,Pfizer/BioNTech
+Croatia,HRV,1/14/21,38000,38000,2485,605,Pfizer/BioNTech
+Croatia,HRV,1/15/21,41532,41532,2364,576,Pfizer/BioNTech
+Croatia,HRV,1/16/21,45906,45906,2272,553,Pfizer/BioNTech
+Croatia,HRV,1/17/21,,,2510,611,Pfizer/BioNTech
+Croatia,HRV,1/18/21,,,2747,669,Pfizer/BioNTech
+Croatia,HRV,1/19/21,54304,54304,2984,727,Pfizer/BioNTech
+Croatia,HRV,1/20/21,,,3329,811,Pfizer/BioNTech
+Croatia,HRV,1/21/21,,,3343,814,Pfizer/BioNTech
+Croatia,HRV,1/22/21,64951,64951,3346,815,Pfizer/BioNTech
+Cyprus,CYP,1/6/21,3901,,,,Pfizer/BioNTech
+Cyprus,CYP,1/7/21,,,534,610,Pfizer/BioNTech
+Cyprus,CYP,1/8/21,,,534,610,Pfizer/BioNTech
+Cyprus,CYP,1/9/21,,,534,610,Pfizer/BioNTech
+Cyprus,CYP,1/10/21,6035,,534,610,Pfizer/BioNTech
+Cyprus,CYP,1/11/21,,,594,678,Pfizer/BioNTech
+Cyprus,CYP,1/12/21,,,635,725,Pfizer/BioNTech
+Cyprus,CYP,1/13/21,,,664,758,Pfizer/BioNTech
+Cyprus,CYP,1/14/21,,,708,808,Pfizer/BioNTech
+Cyprus,CYP,1/15/21,10226,,751,857,Pfizer/BioNTech
+Cyprus,CYP,1/16/21,,,821,937,Pfizer/BioNTech
+Cyprus,CYP,1/17/21,,,891,1017,Pfizer/BioNTech
+Cyprus,CYP,1/18/21,,,917,1047,Pfizer/BioNTech
+Cyprus,CYP,1/19/21,,,943,1077,Pfizer/BioNTech
+Cyprus,CYP,1/20/21,,,969,1106,Pfizer/BioNTech
+Cyprus,CYP,1/21/21,,,996,1137,Pfizer/BioNTech
+Cyprus,CYP,1/22/21,17379,15322,1022,1167,Pfizer/BioNTech
+Czechia,CZE,12/27/20,1246,1246,,,"Moderna, Pfizer/BioNTech"
+Czechia,CZE,12/28/20,3475,3475,2229,208,"Moderna, Pfizer/BioNTech"
+Czechia,CZE,12/29/20,6843,6843,2798,261,"Moderna, Pfizer/BioNTech"
+Czechia,CZE,12/30/20,10274,10274,3009,281,"Moderna, Pfizer/BioNTech"
+Czechia,CZE,12/31/20,11575,11575,2582,241,"Moderna, Pfizer/BioNTech"
+Czechia,CZE,1/1/21,11839,11839,2119,198,"Moderna, Pfizer/BioNTech"
+Czechia,CZE,1/2/21,13078,13078,1972,184,"Moderna, Pfizer/BioNTech"
+Czechia,CZE,1/3/21,13967,13967,1817,170,"Moderna, Pfizer/BioNTech"
+Czechia,CZE,1/4/21,17397,17397,1989,186,"Moderna, Pfizer/BioNTech"
+Czechia,CZE,1/5/21,21699,21699,2122,198,"Moderna, Pfizer/BioNTech"
+Czechia,CZE,1/6/21,27303,27303,2433,227,"Moderna, Pfizer/BioNTech"
+Czechia,CZE,1/7/21,34978,34978,3343,312,"Moderna, Pfizer/BioNTech"
+Czechia,CZE,1/8/21,44802,44802,4709,440,"Moderna, Pfizer/BioNTech"
+Czechia,CZE,1/9/21,46739,46739,4809,449,"Moderna, Pfizer/BioNTech"
+Czechia,CZE,1/10/21,48427,48427,4923,460,"Moderna, Pfizer/BioNTech"
+Czechia,CZE,1/11/21,57896,57896,5786,540,"Moderna, Pfizer/BioNTech"
+Czechia,CZE,1/12/21,70797,70797,7014,655,"Moderna, Pfizer/BioNTech"
+Czechia,CZE,1/13/21,84022,84022,8103,757,"Moderna, Pfizer/BioNTech"
+Czechia,CZE,1/14/21,98565,98565,9084,848,"Moderna, Pfizer/BioNTech"
+Czechia,CZE,1/15/21,111756,111756,9565,893,"Moderna, Pfizer/BioNTech"
+Czechia,CZE,1/16/21,115004,115004,9752,911,"Moderna, Pfizer/BioNTech"
+Czechia,CZE,1/17/21,118035,118035,9944,929,"Moderna, Pfizer/BioNTech"
+Czechia,CZE,1/18/21,131398,131398,10500,980,"Moderna, Pfizer/BioNTech"
+Czechia,CZE,1/19/21,145765,145765,10710,1000,"Moderna, Pfizer/BioNTech"
+Czechia,CZE,1/20/21,160005,160005,10855,1014,"Moderna, Pfizer/BioNTech"
+Czechia,CZE,1/21/21,175614,175614,11007,1028,"Moderna, Pfizer/BioNTech"
+Czechia,CZE,1/22/21,189046,189046,11041,1031,"Moderna, Pfizer/BioNTech"
+Czechia,CZE,1/23/21,192267,192267,11038,1031,"Moderna, Pfizer/BioNTech"
+Denmark,DNK,12/27/20,6589,6589,,,"Moderna, Pfizer/BioNTech"
+Denmark,DNK,12/28/20,8582,8582,1993,344,"Moderna, Pfizer/BioNTech"
+Denmark,DNK,12/29/20,17678,17678,5544,957,"Moderna, Pfizer/BioNTech"
+Denmark,DNK,12/30/20,29196,29196,7536,1301,"Moderna, Pfizer/BioNTech"
+Denmark,DNK,12/31/20,35506,35506,7229,1248,"Moderna, Pfizer/BioNTech"
+Denmark,DNK,1/1/21,37883,37883,6259,1081,"Moderna, Pfizer/BioNTech"
+Denmark,DNK,1/2/21,46824,46824,6706,1158,"Moderna, Pfizer/BioNTech"
+Denmark,DNK,1/3/21,52824,52824,6605,1140,"Moderna, Pfizer/BioNTech"
+Denmark,DNK,1/4/21,55255,55255,6668,1151,"Moderna, Pfizer/BioNTech"
+Denmark,DNK,1/5/21,68795,68795,7302,1261,"Moderna, Pfizer/BioNTech"
+Denmark,DNK,1/6/21,88758,88758,8509,1469,"Moderna, Pfizer/BioNTech"
+Denmark,DNK,1/7/21,106370,106370,10123,1748,"Moderna, Pfizer/BioNTech"
+Denmark,DNK,1/8/21,114937,114937,11008,1900,"Moderna, Pfizer/BioNTech"
+Denmark,DNK,1/9/21,116835,116835,10002,1727,"Moderna, Pfizer/BioNTech"
+Denmark,DNK,1/10/21,117650,117650,9261,1599,"Moderna, Pfizer/BioNTech"
+Denmark,DNK,1/11/21,118309,118309,9008,1555,"Moderna, Pfizer/BioNTech"
+Denmark,DNK,1/12/21,118769,118769,7139,1233,"Moderna, Pfizer/BioNTech"
+Denmark,DNK,1/13/21,131433,131433,6096,1052,"Moderna, Pfizer/BioNTech"
+Denmark,DNK,1/14/21,149210,149210,6120,1057,"Moderna, Pfizer/BioNTech"
+Denmark,DNK,1/15/21,164286,164281,7050,1217,"Moderna, Pfizer/BioNTech"
+Denmark,DNK,1/16/21,168974,168962,7448,1286,"Moderna, Pfizer/BioNTech"
+Denmark,DNK,1/17/21,172233,171495,7798,1346,"Moderna, Pfizer/BioNTech"
+Denmark,DNK,1/18/21,178263,175367,8565,1479,"Moderna, Pfizer/BioNTech"
+Denmark,DNK,1/19/21,182875,177853,9158,1581,"Moderna, Pfizer/BioNTech"
+Denmark,DNK,1/20/21,186303,179368,7839,1353,"Moderna, Pfizer/BioNTech"
+Denmark,DNK,1/21/21,190170,180882,5851,1010,"Moderna, Pfizer/BioNTech"
+Denmark,DNK,1/22/21,196260,181501,4568,789,"Moderna, Pfizer/BioNTech"
+Denmark,DNK,1/23/21,203166,182168,4885,843,"Moderna, Pfizer/BioNTech"
+Ecuador,ECU,1/21/21,0,0,,,Pfizer/BioNTech
+Ecuador,ECU,1/22/21,108,108,108,6,Pfizer/BioNTech
+England,,12/20/20,568044,568044,,,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,,12/21/20,,,37625,668,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,,12/22/20,,,37625,668,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,,12/23/20,,,37625,668,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,,12/24/20,,,37625,668,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,,12/25/20,,,37625,668,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,,12/26/20,,,37625,668,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,,12/27/20,831416,831416,37625,668,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,,12/28/20,,,39253,697,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,,12/29/20,,,40882,726,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,,12/30/20,,,42511,755,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,,12/31/20,,,44139,784,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,,1/1/21,,,45768,813,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,,1/2/21,,,47396,842,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,,1/3/21,1174592,1154306,49025,871,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,,1/4/21,,,65678,1167,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,,1/5/21,,,82331,1463,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,,1/6/21,,,98984,1759,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,,1/7/21,,,115637,2054,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,,1/8/21,,,132290,2350,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,,1/9/21,,,148943,2646,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,,1/10/21,2333764,1959151,165596,2942,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,,1/11/21,2474205,2080280,162002,2878,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,,1/12/21,2661850,2254556,165152,2934,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,,1/13/21,2910027,2494371,176950,3144,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,,1/14/21,3189674,2769164,193243,3433,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,,1/15/21,3514385,3090058,215973,3837,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,,1/16/21,3791594,3365492,231918,4120,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,,1/17/21,3947442,3520056,230525,4096,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,,1/18/21,4118342,3687206,234877,4173,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,,1/19/21,4419704,3985579,251122,4461,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,,1/20/21,4740578,4303730,261507,4646,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,,1/21/21,5100475,4661293,272972,4850,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,,1/22/21,5526071,5085771,287384,5106,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,,1/23/21,5970175,5529101,311226,5529,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Estonia,EST,12/28/20,207,207,,,Pfizer/BioNTech
+Estonia,EST,12/29/20,516,516,309,233,Pfizer/BioNTech
+Estonia,EST,12/30/20,884,884,338,255,Pfizer/BioNTech
+Estonia,EST,12/31/20,1907,1907,567,427,Pfizer/BioNTech
+Estonia,EST,1/1/21,2487,2487,570,430,Pfizer/BioNTech
+Estonia,EST,1/2/21,,,459,346,Pfizer/BioNTech
+Estonia,EST,1/3/21,2517,2517,385,290,Pfizer/BioNTech
+Estonia,EST,1/4/21,2535,2535,333,251,Pfizer/BioNTech
+Estonia,EST,1/5/21,3188,3188,382,288,Pfizer/BioNTech
+Estonia,EST,1/6/21,5009,5009,589,444,Pfizer/BioNTech
+Estonia,EST,1/7/21,6632,6632,675,509,Pfizer/BioNTech
+Estonia,EST,1/8/21,7973,7973,784,591,Pfizer/BioNTech
+Estonia,EST,1/9/21,10197,10197,1099,828,Pfizer/BioNTech
+Estonia,EST,1/10/21,10749,10749,1176,887,Pfizer/BioNTech
+Estonia,EST,1/11/21,10972,10972,1205,908,Pfizer/BioNTech
+Estonia,EST,1/12/21,11896,11896,1244,938,Pfizer/BioNTech
+Estonia,EST,1/13/21,13481,13481,1210,912,Pfizer/BioNTech
+Estonia,EST,1/14/21,14879,14879,1178,888,Pfizer/BioNTech
+Estonia,EST,1/15/21,16677,16677,1243,937,Pfizer/BioNTech
+Estonia,EST,1/16/21,17959,17959,1109,836,Pfizer/BioNTech
+Estonia,EST,1/17/21,18179,18179,1061,800,Pfizer/BioNTech
+Estonia,EST,1/18/21,18275,18275,1043,786,Pfizer/BioNTech
+Estonia,EST,1/19/21,19315,19315,1060,799,Pfizer/BioNTech
+Estonia,EST,1/20/21,20478,20478,1000,754,Pfizer/BioNTech
+Estonia,EST,1/21/21,21985,21985,1015,765,Pfizer/BioNTech
+Estonia,EST,1/22/21,24196,24196,1074,810,Pfizer/BioNTech
+Estonia,EST,1/23/21,25704,25704,1106,834,Pfizer/BioNTech
+Estonia,EST,1/24/21,25964,25964,1112,838,Pfizer/BioNTech
+Finland,FIN,12/31/20,1767,1767,,,Pfizer/BioNTech
+Finland,FIN,1/1/21,,,459,83,Pfizer/BioNTech
+Finland,FIN,1/2/21,,,459,83,Pfizer/BioNTech
+Finland,FIN,1/3/21,,,459,83,Pfizer/BioNTech
+Finland,FIN,1/4/21,3604,3604,459,83,Pfizer/BioNTech
+Finland,FIN,1/5/21,5445,5445,736,133,Pfizer/BioNTech
+Finland,FIN,1/6/21,,,839,151,Pfizer/BioNTech
+Finland,FIN,1/7/21,8155,8155,913,165,Pfizer/BioNTech
+Finland,FIN,1/8/21,11135,11135,1273,230,Pfizer/BioNTech
+Finland,FIN,1/9/21,,,1353,244,Pfizer/BioNTech
+Finland,FIN,1/10/21,,,1433,259,Pfizer/BioNTech
+Finland,FIN,1/11/21,14196,14196,1513,273,Pfizer/BioNTech
+Finland,FIN,1/12/21,17617,17617,1739,314,Pfizer/BioNTech
+Finland,FIN,1/13/21,23126,23126,2332,421,Pfizer/BioNTech
+Finland,FIN,1/14/21,33033,33033,3554,641,Pfizer/BioNTech
+Finland,FIN,1/15/21,43143,43143,4573,825,Pfizer/BioNTech
+Finland,FIN,1/16/21,,,4971,897,Pfizer/BioNTech
+Finland,FIN,1/17/21,,,5369,969,Pfizer/BioNTech
+Finland,FIN,1/18/21,54568,54568,5767,1041,Pfizer/BioNTech
+Finland,FIN,1/19/21,55824,55824,5458,985,Pfizer/BioNTech
+Finland,FIN,1/20/21,62061,62061,5562,1004,Pfizer/BioNTech
+Finland,FIN,1/21/21,78300,78300,6467,1167,Pfizer/BioNTech
+Finland,FIN,1/22/21,91260,91260,6874,1241,Pfizer/BioNTech
+France,FRA,1/4/21,1000,1000,,,Pfizer/BioNTech
+France,FRA,1/5/21,6000,6000,5000,74,Pfizer/BioNTech
+France,FRA,1/6/21,18000,18000,8500,125,Pfizer/BioNTech
+France,FRA,1/7/21,45000,45000,14667,216,Pfizer/BioNTech
+France,FRA,1/8/21,81000,81000,20000,295,Pfizer/BioNTech
+France,FRA,1/9/21,95000,95000,18800,277,Pfizer/BioNTech
+France,FRA,1/10/21,107000,107000,17667,260,Pfizer/BioNTech
+France,FRA,1/11/21,138351,138351,19622,289,Pfizer/BioNTech
+France,FRA,1/12/21,189834,189834,26262,387,Pfizer/BioNTech
+France,FRA,1/13/21,247167,247167,32738,483,Pfizer/BioNTech
+France,FRA,1/14/21,318216,318216,39031,575,Pfizer/BioNTech
+France,FRA,1/15/21,388730,388730,43961,648,Pfizer/BioNTech
+France,FRA,1/16/21,413046,413046,45435,670,Pfizer/BioNTech
+France,FRA,1/17/21,422127,422127,45018,664,Pfizer/BioNTech
+France,FRA,1/18/21,479873,479873,48789,719,Pfizer/BioNTech
+France,FRA,1/19/21,585664,585664,56547,834,Pfizer/BioNTech
+France,FRA,1/20/21,692777,692777,63659,938,Pfizer/BioNTech
+France,FRA,1/21/21,823567,823567,72193,1064,Pfizer/BioNTech
+France,FRA,1/22/21,963139,963139,82058,1210,Pfizer/BioNTech
+France,FRA,1/23/21,1008720,1008720,85096,1254,Pfizer/BioNTech
+France,FRA,1/24/21,1026871,1026871,86392,1274,Pfizer/BioNTech
+Germany,DEU,12/27/20,24256,24256,,,"Moderna, Pfizer/BioNTech"
+Germany,DEU,12/28/20,43905,43905,19649,235,"Moderna, Pfizer/BioNTech"
+Germany,DEU,12/29/20,86981,86981,31362,374,"Moderna, Pfizer/BioNTech"
+Germany,DEU,12/30/20,144421,144421,40055,478,"Moderna, Pfizer/BioNTech"
+Germany,DEU,12/31/20,182427,182427,39543,472,"Moderna, Pfizer/BioNTech"
+Germany,DEU,1/1/21,213023,213023,37753,451,"Moderna, Pfizer/BioNTech"
+Germany,DEU,1/2/21,257920,257920,38944,465,"Moderna, Pfizer/BioNTech"
+Germany,DEU,1/3/21,282450,282450,36885,440,"Moderna, Pfizer/BioNTech"
+Germany,DEU,1/4/21,331080,331080,41025,490,"Moderna, Pfizer/BioNTech"
+Germany,DEU,1/5/21,382086,382086,42158,503,"Moderna, Pfizer/BioNTech"
+Germany,DEU,1/6/21,438354,438354,41990,501,"Moderna, Pfizer/BioNTech"
+Germany,DEU,1/7/21,496204,496204,44825,535,"Moderna, Pfizer/BioNTech"
+Germany,DEU,1/8/21,554232,554232,48744,582,"Moderna, Pfizer/BioNTech"
+Germany,DEU,1/9/21,607874,607874,49993,597,"Moderna, Pfizer/BioNTech"
+Germany,DEU,1/10/21,640337,640337,51127,610,"Moderna, Pfizer/BioNTech"
+Germany,DEU,1/11/21,706205,706205,53589,640,"Moderna, Pfizer/BioNTech"
+Germany,DEU,1/12/21,786323,786323,57748,689,"Moderna, Pfizer/BioNTech"
+Germany,DEU,1/13/21,880221,880221,63124,753,"Moderna, Pfizer/BioNTech"
+Germany,DEU,1/14/21,978830,978784,68947,823,"Moderna, Pfizer/BioNTech"
+Germany,DEU,1/15/21,1069381,1069117,73593,878,"Moderna, Pfizer/BioNTech"
+Germany,DEU,1/16/21,1124280,1123548,73772,881,"Moderna, Pfizer/BioNTech"
+Germany,DEU,1/17/21,1169306,1154115,75567,902,"Moderna, Pfizer/BioNTech"
+Germany,DEU,1/18/21,1237259,1205919,75865,905,"Moderna, Pfizer/BioNTech"
+Germany,DEU,1/19/21,1321216,1262754,76413,912,"Moderna, Pfizer/BioNTech"
+Germany,DEU,1/20/21,1439168,1334041,79850,953,"Moderna, Pfizer/BioNTech"
+Germany,DEU,1/21/21,1526041,1390052,78173,933,"Moderna, Pfizer/BioNTech"
+Germany,DEU,1/22/21,1632777,1469353,80485,961,"Moderna, Pfizer/BioNTech"
+Gibraltar,GIB,1/10/21,420,420,,,Pfizer/BioNTech
+Gibraltar,GIB,1/11/21,1445,1445,1025,30424,Pfizer/BioNTech
+Gibraltar,GIB,1/12/21,2501,2501,1040,30869,Pfizer/BioNTech
+Gibraltar,GIB,1/13/21,,,986,29266,Pfizer/BioNTech
+Gibraltar,GIB,1/14/21,,,959,28465,Pfizer/BioNTech
+Gibraltar,GIB,1/15/21,5135,5135,943,27990,Pfizer/BioNTech
+Gibraltar,GIB,1/16/21,5847,5847,904,26832,Pfizer/BioNTech
+Gibraltar,GIB,1/17/21,5847,5847,775,23003,Pfizer/BioNTech
+Gibraltar,GIB,1/18/21,6435,6435,713,21163,Pfizer/BioNTech
+Gibraltar,GIB,1/19/21,7017,7017,645,19145,Pfizer/BioNTech
+Gibraltar,GIB,1/20/21,7017,7017,520,15434,Pfizer/BioNTech
+Gibraltar,GIB,1/21/21,7947,7947,527,15642,Pfizer/BioNTech
+Gibraltar,GIB,1/22/21,8877,8877,535,15880,Pfizer/BioNTech
+Gibraltar,GIB,1/23/21,9807,9807,566,16800,Pfizer/BioNTech
+Greece,GRC,12/28/20,386,386,,,Pfizer/BioNTech
+Greece,GRC,12/29/20,1056,1056,670,64,Pfizer/BioNTech
+Greece,GRC,12/30/20,1709,1709,662,64,Pfizer/BioNTech
+Greece,GRC,12/31/20,2313,2313,642,62,Pfizer/BioNTech
+Greece,GRC,1/1/21,2591,2591,551,53,Pfizer/BioNTech
+Greece,GRC,1/2/21,3132,3132,549,53,Pfizer/BioNTech
+Greece,GRC,1/3/21,3843,3843,576,55,Pfizer/BioNTech
+Greece,GRC,1/4/21,9975,9975,1370,131,Pfizer/BioNTech
+Greece,GRC,1/5/21,16233,16233,2168,208,Pfizer/BioNTech
+Greece,GRC,1/6/21,20466,20466,2680,257,Pfizer/BioNTech
+Greece,GRC,1/7/21,26006,26006,3385,325,Pfizer/BioNTech
+Greece,GRC,1/8/21,34787,34787,4599,441,Pfizer/BioNTech
+Greece,GRC,1/9/21,40163,40163,5290,508,Pfizer/BioNTech
+Greece,GRC,1/10/21,44080,44080,5748,551,Pfizer/BioNTech
+Greece,GRC,1/11/21,49645,49645,5667,544,Pfizer/BioNTech
+Greece,GRC,1/12/21,56199,56199,5709,548,Pfizer/BioNTech
+Greece,GRC,1/13/21,64619,64619,6308,605,Pfizer/BioNTech
+Greece,GRC,1/14/21,70695,70695,6384,612,Pfizer/BioNTech
+Greece,GRC,1/15/21,75276,75276,5784,555,Pfizer/BioNTech
+Greece,GRC,1/16/21,79744,79744,5654,542,Pfizer/BioNTech
+Greece,GRC,1/17/21,,,5486,526,Pfizer/BioNTech
+Greece,GRC,1/18/21,85223,84803,5083,488,Pfizer/BioNTech
+Greece,GRC,1/19/21,93179,92139,5283,507,Pfizer/BioNTech
+Greece,GRC,1/20/21,107335,105700,6102,585,Pfizer/BioNTech
+Greece,GRC,1/21/21,123347,121109,7522,722,Pfizer/BioNTech
+Greece,GRC,1/22/21,140870,138312,9371,899,Pfizer/BioNTech
+Greece,GRC,1/23/21,157388,154273,11092,1064,Pfizer/BioNTech
+Hungary,HUN,12/28/20,1094,,,,Pfizer/BioNTech
+Hungary,HUN,12/29/20,2461,,1367,142,Pfizer/BioNTech
+Hungary,HUN,12/30/20,3789,,1348,140,Pfizer/BioNTech
+Hungary,HUN,12/31/20,5110,,1339,139,Pfizer/BioNTech
+Hungary,HUN,1/1/21,,,1578,163,Pfizer/BioNTech
+Hungary,HUN,1/2/21,,,1722,178,Pfizer/BioNTech
+Hungary,HUN,1/3/21,12000,,1818,188,Pfizer/BioNTech
+Hungary,HUN,1/4/21,15000,,1987,206,Pfizer/BioNTech
+Hungary,HUN,1/5/21,21000,,2648,274,Pfizer/BioNTech
+Hungary,HUN,1/6/21,31500,,3959,410,Pfizer/BioNTech
+Hungary,HUN,1/7/21,42549,,5348,554,Pfizer/BioNTech
+Hungary,HUN,1/8/21,,,6375,660,Pfizer/BioNTech
+Hungary,HUN,1/9/21,,,7402,766,Pfizer/BioNTech
+Hungary,HUN,1/10/21,71000,,8429,873,Pfizer/BioNTech
+Hungary,HUN,1/11/21,78579,,9083,940,Pfizer/BioNTech
+Hungary,HUN,1/12/21,86929,,9418,975,Pfizer/BioNTech
+Hungary,HUN,1/13/21,96101,,9229,955,Pfizer/BioNTech
+Hungary,HUN,1/14/21,105728,,9026,934,Pfizer/BioNTech
+Hungary,HUN,1/15/21,112847,,8688,899,Pfizer/BioNTech
+Hungary,HUN,1/16/21,119944,,8347,864,Pfizer/BioNTech
+Hungary,HUN,1/17/21,123188,,7455,772,Pfizer/BioNTech
+Hungary,HUN,1/18/21,131332,129689,7536,780,Pfizer/BioNTech
+Hungary,HUN,1/19/21,133257,130318,6618,685,Pfizer/BioNTech
+Hungary,HUN,1/20/21,138584,134554,6069,628,Pfizer/BioNTech
+Hungary,HUN,1/21/21,144798,138983,5581,578,Pfizer/BioNTech
+Hungary,HUN,1/22/21,150128,143184,5326,551,Pfizer/BioNTech
+Hungary,HUN,1/23/21,153392,145257,4778,495,Pfizer/BioNTech
+Iceland,ISL,12/30/20,4875,4875,,,"Moderna, Pfizer/BioNTech"
+Iceland,ISL,12/31/20,,,63,185,"Moderna, Pfizer/BioNTech"
+Iceland,ISL,1/1/21,,,63,185,"Moderna, Pfizer/BioNTech"
+Iceland,ISL,1/2/21,,,63,185,"Moderna, Pfizer/BioNTech"
+Iceland,ISL,1/3/21,,,63,185,"Moderna, Pfizer/BioNTech"
+Iceland,ISL,1/4/21,,,63,185,"Moderna, Pfizer/BioNTech"
+Iceland,ISL,1/5/21,,,63,185,"Moderna, Pfizer/BioNTech"
+Iceland,ISL,1/6/21,,,63,185,"Moderna, Pfizer/BioNTech"
+Iceland,ISL,1/7/21,,,63,185,"Moderna, Pfizer/BioNTech"
+Iceland,ISL,1/8/21,,,63,185,"Moderna, Pfizer/BioNTech"
+Iceland,ISL,1/9/21,,,63,185,"Moderna, Pfizer/BioNTech"
+Iceland,ISL,1/10/21,,,63,185,"Moderna, Pfizer/BioNTech"
+Iceland,ISL,1/11/21,,,63,185,"Moderna, Pfizer/BioNTech"
+Iceland,ISL,1/12/21,,,63,185,"Moderna, Pfizer/BioNTech"
+Iceland,ISL,1/13/21,,,63,185,"Moderna, Pfizer/BioNTech"
+Iceland,ISL,1/14/21,,,63,185,"Moderna, Pfizer/BioNTech"
+Iceland,ISL,1/15/21,,,63,185,"Moderna, Pfizer/BioNTech"
+Iceland,ISL,1/16/21,,,63,185,"Moderna, Pfizer/BioNTech"
+Iceland,ISL,1/17/21,,,63,185,"Moderna, Pfizer/BioNTech"
+Iceland,ISL,1/18/21,,,63,185,"Moderna, Pfizer/BioNTech"
+Iceland,ISL,1/19/21,,,63,185,"Moderna, Pfizer/BioNTech"
+Iceland,ISL,1/20/21,6205,5725,63,185,"Moderna, Pfizer/BioNTech"
+Iceland,ISL,1/21/21,,,200,586,"Moderna, Pfizer/BioNTech"
+Iceland,ISL,1/22/21,8249,3703,337,988,"Moderna, Pfizer/BioNTech"
+India,IND,1/15/21,0,0,,,"Covaxin, Covishield"
+India,IND,1/16/21,191181,191181,191181,139,"Covaxin, Covishield"
+India,IND,1/17/21,224301,224301,112150,81,"Covaxin, Covishield"
+India,IND,1/18/21,454049,454049,151350,110,"Covaxin, Covishield"
+India,IND,1/19/21,674835,674835,168709,122,"Covaxin, Covishield"
+India,IND,1/20/21,806484,806484,161297,117,"Covaxin, Covishield"
+India,IND,1/21/21,1043534,1043534,173922,126,"Covaxin, Covishield"
+India,IND,1/22/21,1390592,1390592,198656,144,"Covaxin, Covishield"
+India,IND,1/23/21,1582201,1582201,198717,144,"Covaxin, Covishield"
+Indonesia,IDN,1/12/21,0,0,,,Sinovac
+Indonesia,IDN,1/13/21,,,13200,48,Sinovac
+Indonesia,IDN,1/14/21,,,13200,48,Sinovac
+Indonesia,IDN,1/15/21,,,13200,48,Sinovac
+Indonesia,IDN,1/16/21,,,13200,48,Sinovac
+Indonesia,IDN,1/17/21,,,13200,48,Sinovac
+Indonesia,IDN,1/18/21,,,13200,48,Sinovac
+Indonesia,IDN,1/19/21,,,13200,48,Sinovac
+Indonesia,IDN,1/20/21,,,13200,48,Sinovac
+Indonesia,IDN,1/21/21,,,13200,48,Sinovac
+Indonesia,IDN,1/22/21,132000,132000,13200,48,Sinovac
+Indonesia,IDN,1/23/21,,,12546,46,Sinovac
+Indonesia,IDN,1/24/21,149242,149242,11892,43,Sinovac
+Ireland,IRL,12/31/20,1800,1800,,,Pfizer/BioNTech
+Ireland,IRL,1/1/21,,,550,111,Pfizer/BioNTech
+Ireland,IRL,1/2/21,,,550,111,Pfizer/BioNTech
+Ireland,IRL,1/3/21,,,550,111,Pfizer/BioNTech
+Ireland,IRL,1/4/21,4000,4000,550,111,Pfizer/BioNTech
+Ireland,IRL,1/5/21,,,1194,242,Pfizer/BioNTech
+Ireland,IRL,1/6/21,,,1624,329,Pfizer/BioNTech
+Ireland,IRL,1/7/21,15314,15314,1931,391,Pfizer/BioNTech
+Ireland,IRL,1/8/21,,,3028,613,Pfizer/BioNTech
+Ireland,IRL,1/9/21,,,4124,835,Pfizer/BioNTech
+Ireland,IRL,1/10/21,40000,40000,5221,1057,Pfizer/BioNTech
+Ireland,IRL,1/11/21,,,6919,1401,Pfizer/BioNTech
+Ireland,IRL,1/12/21,,,8157,1652,Pfizer/BioNTech
+Ireland,IRL,1/13/21,77303,77303,9394,1902,Pfizer/BioNTech
+Ireland,IRL,1/14/21,,,9452,1914,Pfizer/BioNTech
+Ireland,IRL,1/15/21,,,8873,1797,Pfizer/BioNTech
+Ireland,IRL,1/16/21,,,8293,1679,Pfizer/BioNTech
+Ireland,IRL,1/17/21,94000,94000,7714,1562,Pfizer/BioNTech
+Ireland,IRL,1/18/21,,,7267,1472,Pfizer/BioNTech
+Ireland,IRL,1/19/21,,,6819,1381,Pfizer/BioNTech
+Ireland,IRL,1/20/21,121900,121900,6371,1290,Pfizer/BioNTech
+Isle of Man,IMN,1/21/21,3558,3558,,,Pfizer/BioNTech
+Isle of Man,IMN,1/22/21,3648,3648,90,1058,Pfizer/BioNTech
+Israel,ISR,12/19/20,57,57,,,"Moderna, Pfizer/BioNTech"
+Israel,ISR,12/20/20,6943,6943,6886,796,"Moderna, Pfizer/BioNTech"
+Israel,ISR,12/21/20,29333,29333,14638,1691,"Moderna, Pfizer/BioNTech"
+Israel,ISR,12/22/20,70168,70168,23370,2700,"Moderna, Pfizer/BioNTech"
+Israel,ISR,12/23/20,129033,129033,32244,3725,"Moderna, Pfizer/BioNTech"
+Israel,ISR,12/24/20,199278,199278,39844,4603,"Moderna, Pfizer/BioNTech"
+Israel,ISR,12/25/20,236946,236946,39482,4561,"Moderna, Pfizer/BioNTech"
+Israel,ISR,12/26/20,268911,268911,38408,4437,"Moderna, Pfizer/BioNTech"
+Israel,ISR,12/27/20,369483,369483,51791,5984,"Moderna, Pfizer/BioNTech"
+Israel,ISR,12/28/20,498200,498200,66981,7739,"Moderna, Pfizer/BioNTech"
+Israel,ISR,12/29/20,649333,649333,82738,9559,"Moderna, Pfizer/BioNTech"
+Israel,ISR,12/30/20,797661,797661,95518,11035,"Moderna, Pfizer/BioNTech"
+Israel,ISR,12/31/20,952119,952119,107549,12425,"Moderna, Pfizer/BioNTech"
+Israel,ISR,1/1/21,1022395,1022395,112207,12964,"Moderna, Pfizer/BioNTech"
+Israel,ISR,1/2/21,1093049,1093049,117734,13602,"Moderna, Pfizer/BioNTech"
+Israel,ISR,1/3/21,1237915,1237915,124062,14333,"Moderna, Pfizer/BioNTech"
+Israel,ISR,1/4/21,1376734,1376732,125505,14500,"Moderna, Pfizer/BioNTech"
+Israel,ISR,1/5/21,1499087,1499085,121393,14025,"Moderna, Pfizer/BioNTech"
+Israel,ISR,1/6/21,1599407,1599405,114535,13233,"Moderna, Pfizer/BioNTech"
+Israel,ISR,1/7/21,1712660,1712654,108649,12553,"Moderna, Pfizer/BioNTech"
+Israel,ISR,1/8/21,1777832,1777821,107920,12468,"Moderna, Pfizer/BioNTech"
+Israel,ISR,1/9/21,1821681,1821644,104090,12026,"Moderna, Pfizer/BioNTech"
+Israel,ISR,1/10/21,1864431,1858845,89502,10340,"Moderna, Pfizer/BioNTech"
+Israel,ISR,1/11/21,1903639,1880695,75272,8696,"Moderna, Pfizer/BioNTech"
+Israel,ISR,1/12/21,1961995,1907235,66130,7640,"Moderna, Pfizer/BioNTech"
+Israel,ISR,1/13/21,2068535,1961128,67018,7743,"Moderna, Pfizer/BioNTech"
+Israel,ISR,1/14/21,2191358,2018553,68385,7901,"Moderna, Pfizer/BioNTech"
+Israel,ISR,1/15/21,2256820,2048969,68427,7906,"Moderna, Pfizer/BioNTech"
+Israel,ISR,1/16/21,2311416,2078131,69962,8083,"Moderna, Pfizer/BioNTech"
+Israel,ISR,1/17/21,2461337,2146848,85272,9852,"Moderna, Pfizer/BioNTech"
+Israel,ISR,1/18/21,2647284,2219445,106235,12274,"Moderna, Pfizer/BioNTech"
+Israel,ISR,1/19/21,2853745,2294296,127393,14718,"Moderna, Pfizer/BioNTech"
+Israel,ISR,1/20/21,3069718,2372737,143026,16524,"Moderna, Pfizer/BioNTech"
+Israel,ISR,1/21/21,3298537,2444506,158168,18274,"Moderna, Pfizer/BioNTech"
+Israel,ISR,1/22/21,3406427,2483419,164230,18974,"Moderna, Pfizer/BioNTech"
+Israel,ISR,1/23/21,3499172,2524067,169679,19604,"Moderna, Pfizer/BioNTech"
+Israel,ISR,1/24/21,3615145,2555489,164830,19043,"Moderna, Pfizer/BioNTech"
+Italy,ITA,12/27/20,6983,6983,,,Pfizer/BioNTech
+Italy,ITA,12/28/20,7933,7933,950,16,Pfizer/BioNTech
+Italy,ITA,12/29/20,8835,8835,926,15,Pfizer/BioNTech
+Italy,ITA,12/30/20,13420,13420,2146,35,Pfizer/BioNTech
+Italy,ITA,12/31/20,38354,38354,7843,130,Pfizer/BioNTech
+Italy,ITA,1/1/21,49235,49235,8450,140,Pfizer/BioNTech
+Italy,ITA,1/2/21,86860,86860,13313,220,Pfizer/BioNTech
+Italy,ITA,1/3/21,121481,121481,16357,271,Pfizer/BioNTech
+Italy,ITA,1/4/21,188474,188474,25792,427,Pfizer/BioNTech
+Italy,ITA,1/5/21,266806,266806,36853,610,Pfizer/BioNTech
+Italy,ITA,1/6/21,331183,331183,45395,751,Pfizer/BioNTech
+Italy,ITA,1/7/21,421981,421981,54804,906,Pfizer/BioNTech
+Italy,ITA,1/8/21,514324,514324,66441,1099,Pfizer/BioNTech
+Italy,ITA,1/9/21,598297,598297,73062,1208,Pfizer/BioNTech
+Italy,ITA,1/10/21,657588,657588,76587,1267,Pfizer/BioNTech
+Italy,ITA,1/11/21,735283,735283,78116,1292,Pfizer/BioNTech
+Italy,ITA,1/12/21,814005,814005,78171,1293,Pfizer/BioNTech
+Italy,ITA,1/13/21,904034,904034,81836,1354,Pfizer/BioNTech
+Italy,ITA,1/14/21,992445,992445,81495,1348,Pfizer/BioNTech
+Italy,ITA,1/15/21,1074910,1074910,80084,1325,Pfizer/BioNTech
+Italy,ITA,1/16/21,1134740,1134733,76635,1267,Pfizer/BioNTech
+Italy,ITA,1/17/21,1169286,1166515,73100,1209,Pfizer/BioNTech
+Italy,ITA,1/18/21,1207729,1200809,67492,1116,Pfizer/BioNTech
+Italy,ITA,1/19/21,1236140,1227464,60305,997,Pfizer/BioNTech
+Italy,ITA,1/20/21,1262350,1249275,51188,847,Pfizer/BioNTech
+Italy,ITA,1/21/21,1294086,1262147,43092,713,Pfizer/BioNTech
+Italy,ITA,1/22/21,1316284,1271084,34482,570,Pfizer/BioNTech
+Italy,ITA,1/23/21,1350828,1275555,30870,511,Pfizer/BioNTech
+Italy,ITA,1/24/21,1370449,1276787,28738,475,Pfizer/BioNTech
+Kuwait,KWT,12/28/20,2500,2500,,,Pfizer/BioNTech
+Latvia,LVA,12/28/20,597,597,,,Pfizer/BioNTech
+Latvia,LVA,12/29/20,1474,1474,877,465,Pfizer/BioNTech
+Latvia,LVA,12/30/20,2262,2262,832,441,Pfizer/BioNTech
+Latvia,LVA,12/31/20,,,602,319,Pfizer/BioNTech
+Latvia,LVA,1/1/21,,,486,258,Pfizer/BioNTech
+Latvia,LVA,1/2/21,,,417,221,Pfizer/BioNTech
+Latvia,LVA,1/3/21,,,371,197,Pfizer/BioNTech
+Latvia,LVA,1/4/21,2960,2960,338,179,Pfizer/BioNTech
+Latvia,LVA,1/5/21,3848,3848,339,180,Pfizer/BioNTech
+Latvia,LVA,1/6/21,4624,4624,337,179,Pfizer/BioNTech
+Latvia,LVA,1/7/21,5431,5431,433,230,Pfizer/BioNTech
+Latvia,LVA,1/8/21,6333,6333,542,287,Pfizer/BioNTech
+Latvia,LVA,1/9/21,6636,6636,565,300,Pfizer/BioNTech
+Latvia,LVA,1/10/21,6967,6967,592,314,Pfizer/BioNTech
+Latvia,LVA,1/11/21,8329,8329,767,407,Pfizer/BioNTech
+Latvia,LVA,1/12/21,9949,9949,872,462,Pfizer/BioNTech
+Latvia,LVA,1/13/21,11455,11455,976,517,Pfizer/BioNTech
+Latvia,LVA,1/14/21,13272,13272,1120,594,Pfizer/BioNTech
+Latvia,LVA,1/15/21,15137,15137,1258,667,Pfizer/BioNTech
+Latvia,LVA,1/16/21,15800,15800,1309,694,Pfizer/BioNTech
+Latvia,LVA,1/17/21,15917,15917,1279,678,Pfizer/BioNTech
+Latvia,LVA,1/18/21,16760,16760,1204,638,Pfizer/BioNTech
+Latvia,LVA,1/19/21,17636,17636,1098,582,Pfizer/BioNTech
+Latvia,LVA,1/20/21,18405,18405,993,526,Pfizer/BioNTech
+Latvia,LVA,1/21/21,18684,18684,773,410,Pfizer/BioNTech
+Latvia,LVA,1/22/21,18897,18897,537,285,Pfizer/BioNTech
+Latvia,LVA,1/23/21,19022,19022,460,244,Pfizer/BioNTech
+Lithuania,LTU,12/25/20,1,1,,,"Moderna, Pfizer/BioNTech"
+Lithuania,LTU,12/26/20,,,1208,444,"Moderna, Pfizer/BioNTech"
+Lithuania,LTU,12/27/20,2418,2418,1208,444,"Moderna, Pfizer/BioNTech"
+Lithuania,LTU,12/28/20,5203,5203,1734,637,"Moderna, Pfizer/BioNTech"
+Lithuania,LTU,12/29/20,8188,8188,2047,752,"Moderna, Pfizer/BioNTech"
+Lithuania,LTU,12/30/20,9721,9721,1944,714,"Moderna, Pfizer/BioNTech"
+Lithuania,LTU,12/31/20,9746,9746,1624,597,"Moderna, Pfizer/BioNTech"
+Lithuania,LTU,1/1/21,,,1410,518,"Moderna, Pfizer/BioNTech"
+Lithuania,LTU,1/2/21,,,1255,461,"Moderna, Pfizer/BioNTech"
+Lithuania,LTU,1/3/21,,,1100,404,"Moderna, Pfizer/BioNTech"
+Lithuania,LTU,1/4/21,,,720,264,"Moderna, Pfizer/BioNTech"
+Lithuania,LTU,1/5/21,10364,10364,311,114,"Moderna, Pfizer/BioNTech"
+Lithuania,LTU,1/6/21,13865,13865,592,217,"Moderna, Pfizer/BioNTech"
+Lithuania,LTU,1/7/21,18007,18007,1180,433,"Moderna, Pfizer/BioNTech"
+Lithuania,LTU,1/8/21,23148,23148,1897,697,"Moderna, Pfizer/BioNTech"
+Lithuania,LTU,1/9/21,23452,23452,1923,706,"Moderna, Pfizer/BioNTech"
+Lithuania,LTU,1/10/21,23455,23455,1905,700,"Moderna, Pfizer/BioNTech"
+Lithuania,LTU,1/11/21,25649,25649,2201,809,"Moderna, Pfizer/BioNTech"
+Lithuania,LTU,1/12/21,27720,27720,2479,911,"Moderna, Pfizer/BioNTech"
+Lithuania,LTU,1/13/21,33680,33680,2831,1040,"Moderna, Pfizer/BioNTech"
+Lithuania,LTU,1/14/21,42171,42171,3452,1268,"Moderna, Pfizer/BioNTech"
+Lithuania,LTU,1/15/21,49226,49226,3725,1368,"Moderna, Pfizer/BioNTech"
+Lithuania,LTU,1/16/21,50312,50312,3837,1409,"Moderna, Pfizer/BioNTech"
+Lithuania,LTU,1/17/21,51442,50354,3998,1469,"Moderna, Pfizer/BioNTech"
+Lithuania,LTU,1/18/21,55845,53086,4314,1585,"Moderna, Pfizer/BioNTech"
+Lithuania,LTU,1/19/21,62013,55359,4899,1800,"Moderna, Pfizer/BioNTech"
+Lithuania,LTU,1/20/21,65380,56931,4529,1664,"Moderna, Pfizer/BioNTech"
+Lithuania,LTU,1/21/21,66774,57786,3515,1291,"Moderna, Pfizer/BioNTech"
+Lithuania,LTU,1/22/21,67027,58030,2543,934,"Moderna, Pfizer/BioNTech"
+Lithuania,LTU,1/23/21,67036,58039,2389,878,"Moderna, Pfizer/BioNTech"
+Luxembourg,LUX,12/30/20,1200,1200,,,Pfizer/BioNTech
+Luxembourg,LUX,12/31/20,,,62,99,Pfizer/BioNTech
+Luxembourg,LUX,1/1/21,,,62,99,Pfizer/BioNTech
+Luxembourg,LUX,1/2/21,,,62,99,Pfizer/BioNTech
+Luxembourg,LUX,1/3/21,,,62,99,Pfizer/BioNTech
+Luxembourg,LUX,1/4/21,,,62,99,Pfizer/BioNTech
+Luxembourg,LUX,1/5/21,,,62,99,Pfizer/BioNTech
+Luxembourg,LUX,1/6/21,,,62,99,Pfizer/BioNTech
+Luxembourg,LUX,1/7/21,,,62,99,Pfizer/BioNTech
+Luxembourg,LUX,1/8/21,,,62,99,Pfizer/BioNTech
+Luxembourg,LUX,1/9/21,,,62,99,Pfizer/BioNTech
+Luxembourg,LUX,1/10/21,,,62,99,Pfizer/BioNTech
+Luxembourg,LUX,1/11/21,1943,1943,62,99,Pfizer/BioNTech
+Luxembourg,LUX,1/12/21,2372,2372,114,182,Pfizer/BioNTech
+Luxembourg,LUX,1/13/21,2871,2871,177,283,Pfizer/BioNTech
+Luxembourg,LUX,1/14/21,3233,3233,220,351,Pfizer/BioNTech
+Luxembourg,LUX,1/15/21,,,236,377,Pfizer/BioNTech
+Luxembourg,LUX,1/16/21,,,252,403,Pfizer/BioNTech
+Luxembourg,LUX,1/17/21,3755,3755,268,428,Pfizer/BioNTech
+Luxembourg,LUX,1/18/21,4569,4569,375,599,Pfizer/BioNTech
+Luxembourg,LUX,1/19/21,5294,5294,417,666,Pfizer/BioNTech
+Luxembourg,LUX,1/20/21,6193,6193,475,759,Pfizer/BioNTech
+Luxembourg,LUX,1/21/21,6897,6897,523,835,Pfizer/BioNTech
+Malta,MLT,12/28/20,130,130,,,Pfizer/BioNTech
+Malta,MLT,12/29/20,,,259,587,Pfizer/BioNTech
+Malta,MLT,12/30/20,,,259,587,Pfizer/BioNTech
+Malta,MLT,12/31/20,,,259,587,Pfizer/BioNTech
+Malta,MLT,1/1/21,,,259,587,Pfizer/BioNTech
+Malta,MLT,1/2/21,,,259,587,Pfizer/BioNTech
+Malta,MLT,1/3/21,,,259,587,Pfizer/BioNTech
+Malta,MLT,1/4/21,1940,1940,259,587,Pfizer/BioNTech
+Malta,MLT,1/5/21,,,281,636,Pfizer/BioNTech
+Malta,MLT,1/6/21,,,304,689,Pfizer/BioNTech
+Malta,MLT,1/7/21,,,327,741,Pfizer/BioNTech
+Malta,MLT,1/8/21,,,350,793,Pfizer/BioNTech
+Malta,MLT,1/9/21,,,373,845,Pfizer/BioNTech
+Malta,MLT,1/10/21,,,396,897,Pfizer/BioNTech
+Malta,MLT,1/11/21,4870,4870,419,949,Pfizer/BioNTech
+Malta,MLT,1/12/21,,,524,1187,Pfizer/BioNTech
+Malta,MLT,1/13/21,,,629,1425,Pfizer/BioNTech
+Malta,MLT,1/14/21,,,735,1665,Pfizer/BioNTech
+Malta,MLT,1/15/21,9496,9496,840,1902,Pfizer/BioNTech
+Malta,MLT,1/16/21,,,938,2124,Pfizer/BioNTech
+Malta,MLT,1/17/21,11705,11705,1036,2346,Pfizer/BioNTech
+Malta,MLT,1/18/21,13002,13002,1162,2632,Pfizer/BioNTech
+Malta,MLT,1/19/21,14276,14276,1178,2668,Pfizer/BioNTech
+Malta,MLT,1/20/21,15316,15316,1162,2632,Pfizer/BioNTech
+Malta,MLT,1/21/21,16531,16531,1170,2650,Pfizer/BioNTech
+Malta,MLT,1/22/21,17767,17767,1182,2677,Pfizer/BioNTech
+Malta,MLT,1/23/21,18930,18930,1190,2695,Pfizer/BioNTech
+Mexico,MEX,12/24/20,2924,2924,,,Pfizer/BioNTech
+Mexico,MEX,12/25/20,,,1300,10,Pfizer/BioNTech
+Mexico,MEX,12/26/20,,,1300,10,Pfizer/BioNTech
+Mexico,MEX,12/27/20,6824,6824,1300,10,Pfizer/BioNTech
+Mexico,MEX,12/28/20,9579,9579,1664,13,Pfizer/BioNTech
+Mexico,MEX,12/29/20,18529,18529,3121,24,Pfizer/BioNTech
+Mexico,MEX,12/30/20,24998,24998,3679,29,Pfizer/BioNTech
+Mexico,MEX,12/31/20,,,3695,29,Pfizer/BioNTech
+Mexico,MEX,1/1/21,,,4051,31,Pfizer/BioNTech
+Mexico,MEX,1/2/21,,,4407,34,Pfizer/BioNTech
+Mexico,MEX,1/3/21,,,4763,37,Pfizer/BioNTech
+Mexico,MEX,1/4/21,43960,43960,4912,38,Pfizer/BioNTech
+Mexico,MEX,1/5/21,48236,48236,4244,33,Pfizer/BioNTech
+Mexico,MEX,1/6/21,53185,53185,4027,31,Pfizer/BioNTech
+Mexico,MEX,1/7/21,58402,58402,4230,33,Pfizer/BioNTech
+Mexico,MEX,1/8/21,67468,67468,4984,39,Pfizer/BioNTech
+Mexico,MEX,1/9/21,74794,74794,5488,43,Pfizer/BioNTech
+Mexico,MEX,1/10/21,81300,81300,5876,46,Pfizer/BioNTech
+Mexico,MEX,1/11/21,87060,87060,6157,48,Pfizer/BioNTech
+Mexico,MEX,1/12/21,92879,92879,6378,49,Pfizer/BioNTech
+Mexico,MEX,1/13/21,192567,192567,19912,154,Pfizer/BioNTech
+Mexico,MEX,1/14/21,329983,329983,38797,301,Pfizer/BioNTech
+Mexico,MEX,1/15/21,417375,415417,49987,388,Pfizer/BioNTech
+Mexico,MEX,1/16/21,463246,461025,55493,430,Pfizer/BioNTech
+Mexico,MEX,1/17/21,472142,468708,55835,433,Pfizer/BioNTech
+Mexico,MEX,1/18/21,492529,485983,57924,449,Pfizer/BioNTech
+Mexico,MEX,1/19/21,498122,488513,57892,449,Pfizer/BioNTech
+Mexico,MEX,1/20/21,501030,489628,44066,342,Pfizer/BioNTech
+Mexico,MEX,1/21/21,552335,534317,31765,246,Pfizer/BioNTech
+Mexico,MEX,1/22/21,614808,594725,28205,219,Pfizer/BioNTech
+Mexico,MEX,1/23/21,618768,596296,22217,172,Pfizer/BioNTech
+Netherlands,NLD,1/6/21,6000,6000,,,"Moderna, Pfizer/BioNTech"
+Netherlands,NLD,1/7/21,15000,15000,9000,525,"Moderna, Pfizer/BioNTech"
+Netherlands,NLD,1/8/21,27000,27000,10500,613,"Moderna, Pfizer/BioNTech"
+Netherlands,NLD,1/9/21,30000,30000,8000,467,"Moderna, Pfizer/BioNTech"
+Netherlands,NLD,1/10/21,34000,34000,7000,409,"Moderna, Pfizer/BioNTech"
+Netherlands,NLD,1/11/21,35500,35500,5900,344,"Moderna, Pfizer/BioNTech"
+Netherlands,NLD,1/12/21,45000,45000,6500,379,"Moderna, Pfizer/BioNTech"
+Netherlands,NLD,1/13/21,47000,47000,5857,342,"Moderna, Pfizer/BioNTech"
+Netherlands,NLD,1/14/21,,,5143,300,"Moderna, Pfizer/BioNTech"
+Netherlands,NLD,1/15/21,55000,55000,4000,233,"Moderna, Pfizer/BioNTech"
+Netherlands,NLD,1/16/21,,,5143,300,"Moderna, Pfizer/BioNTech"
+Netherlands,NLD,1/17/21,77000,77000,6143,359,"Moderna, Pfizer/BioNTech"
+Netherlands,NLD,1/18/21,,,7024,410,"Moderna, Pfizer/BioNTech"
+Netherlands,NLD,1/19/21,,,6762,395,"Moderna, Pfizer/BioNTech"
+Netherlands,NLD,1/20/21,100000,100000,7571,442,"Moderna, Pfizer/BioNTech"
+Netherlands,NLD,1/21/21,,,9500,554,"Moderna, Pfizer/BioNTech"
+Netherlands,NLD,1/22/21,135000,135000,11429,667,"Moderna, Pfizer/BioNTech"
+Northern Ireland,,12/13/20,3623,3623,,,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,,12/14/20,,,1778,939,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,,12/15/20,,,1778,939,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,,12/16/20,,,1778,939,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,,12/17/20,,,1778,939,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,,12/18/20,,,1778,939,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,,12/19/20,,,1778,939,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,,12/20/20,16068,16068,1778,939,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,,12/21/20,,,1829,966,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,,12/22/20,,,1880,993,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,,12/23/20,,,1931,1020,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,,12/24/20,,,1982,1047,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,,12/25/20,,,2033,1074,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,,12/26/20,,,2084,1101,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,,12/27/20,31016,31016,2135,1127,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,,12/28/20,,,2054,1085,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,,12/29/20,,,1972,1041,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,,12/30/20,,,1890,998,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,,12/31/20,,,1808,955,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,,1/1/21,,,1726,911,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,,1/2/21,,,1645,869,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,,1/3/21,41956,40685,1563,825,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,,1/4/21,,,2360,1246,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,,1/5/21,,,3157,1667,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,,1/6/21,,,3954,2088,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,,1/7/21,,,4751,2509,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,,1/8/21,,,5548,2930,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,,1/9/21,,,6345,3351,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,,1/10/21,91954,78005,7143,3772,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,,1/11/21,99475,84187,7197,3801,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,,1/12/21,109257,91417,7574,4000,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,,1/13/21,121711,102701,8332,4400,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,,1/14/21,133831,114567,9044,4776,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,,1/15/21,137380,117906,8530,4504,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,,1/16/21,140561,120387,7964,4206,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,,1/17/21,146733,125717,7826,4133,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,,1/18/21,154436,132857,7852,4146,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,,1/19/21,160396,138436,7306,3858,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,,1/20/21,166538,144212,6404,3382,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,,1/21/21,173549,151039,5674,2996,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,,1/22/21,177026,154366,5664,2991,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,,1/23/21,178331,155644,5396,2849,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Norway,NOR,12/27/20,5,5,,,Pfizer/BioNTech
+Norway,NOR,12/28/20,605,605,600,111,Pfizer/BioNTech
+Norway,NOR,12/29/20,1673,1673,834,154,Pfizer/BioNTech
+Norway,NOR,12/30/20,2094,2094,696,128,Pfizer/BioNTech
+Norway,NOR,12/31/20,2166,2166,540,100,Pfizer/BioNTech
+Norway,NOR,1/1/21,2172,2172,433,80,Pfizer/BioNTech
+Norway,NOR,1/2/21,2172,2172,361,67,Pfizer/BioNTech
+Norway,NOR,1/3/21,2172,2172,310,57,Pfizer/BioNTech
+Norway,NOR,1/4/21,2173,2173,224,41,Pfizer/BioNTech
+Norway,NOR,1/5/21,5596,5596,560,103,Pfizer/BioNTech
+Norway,NOR,1/6/21,14493,14493,1771,327,Pfizer/BioNTech
+Norway,NOR,1/7/21,20901,20901,2676,494,Pfizer/BioNTech
+Norway,NOR,1/8/21,22498,22498,2904,536,Pfizer/BioNTech
+Norway,NOR,1/9/21,22627,22627,2922,539,Pfizer/BioNTech
+Norway,NOR,1/10/21,22733,22733,2937,542,Pfizer/BioNTech
+Norway,NOR,1/11/21,23074,23074,2986,551,Pfizer/BioNTech
+Norway,NOR,1/12/21,27183,27183,3084,569,Pfizer/BioNTech
+Norway,NOR,1/13/21,36700,36700,3172,585,Pfizer/BioNTech
+Norway,NOR,1/14/21,44826,44826,3418,630,Pfizer/BioNTech
+Norway,NOR,1/15/21,49137,49137,3806,702,Pfizer/BioNTech
+Norway,NOR,1/16/21,49842,49842,3888,717,Pfizer/BioNTech
+Norway,NOR,1/17/21,50121,50116,3913,722,Pfizer/BioNTech
+Norway,NOR,1/18/21,51642,51367,4081,753,Pfizer/BioNTech
+Norway,NOR,1/19/21,56729,55688,4221,779,Pfizer/BioNTech
+Norway,NOR,1/20/21,66531,64816,4262,786,Pfizer/BioNTech
+Norway,NOR,1/21/21,73844,71971,4145,765,Pfizer/BioNTech
+Oman,OMN,12/28/20,1717,1717,,,Pfizer/BioNTech
+Oman,OMN,12/29/20,3363,3363,1646,322,Pfizer/BioNTech
+Oman,OMN,12/30/20,5043,5043,1663,326,Pfizer/BioNTech
+Oman,OMN,12/31/20,6516,6516,1600,313,Pfizer/BioNTech
+Oman,OMN,1/1/21,,,1289,252,Pfizer/BioNTech
+Oman,OMN,1/2/21,7231,7231,1103,216,Pfizer/BioNTech
+Oman,OMN,1/3/21,8826,8826,1185,232,Pfizer/BioNTech
+Oman,OMN,1/4/21,10728,10728,1287,252,Pfizer/BioNTech
+Oman,OMN,1/5/21,12751,12751,1341,263,Pfizer/BioNTech
+Oman,OMN,1/6/21,14005,14005,1280,251,Pfizer/BioNTech
+Oman,OMN,1/7/21,14911,14911,1199,235,Pfizer/BioNTech
+Oman,OMN,1/8/21,14980,14980,1158,227,Pfizer/BioNTech
+Oman,OMN,1/9/21,15023,15023,1113,218,Pfizer/BioNTech
+Oman,OMN,1/10/21,15907,15907,1012,198,Pfizer/BioNTech
+Oman,OMN,1/11/21,18287,18287,1080,211,Pfizer/BioNTech
+Oman,OMN,1/12/21,20649,20649,1128,221,Pfizer/BioNTech
+Oman,OMN,1/13/21,22749,22749,1249,245,Pfizer/BioNTech
+Oman,OMN,1/14/21,24204,24204,1328,260,Pfizer/BioNTech
+Oman,OMN,1/15/21,,,1358,266,Pfizer/BioNTech
+Oman,OMN,1/16/21,24773,24773,1393,273,Pfizer/BioNTech
+Oman,OMN,1/17/21,25446,24773,1363,267,Pfizer/BioNTech
+Oman,OMN,1/18/21,26758,24773,1210,237,Pfizer/BioNTech
+Oman,OMN,1/19/21,28049,24773,1057,207,Pfizer/BioNTech
+Oman,OMN,1/20/21,29548,24773,971,190,Pfizer/BioNTech
+Oman,OMN,1/21/21,,,817,160,Pfizer/BioNTech
+Oman,OMN,1/22/21,,,830,163,Pfizer/BioNTech
+Oman,OMN,1/23/21,30675,24773,843,165,Pfizer/BioNTech
+Panama,PAN,1/19/21,0,0,,,Pfizer/BioNTech
+Panama,PAN,1/20/21,6,6,6,1,Pfizer/BioNTech
+Panama,PAN,1/21/21,2728,2728,1364,316,Pfizer/BioNTech
+Panama,PAN,1/22/21,5081,5081,1694,393,Pfizer/BioNTech
+Panama,PAN,1/23/21,5594,5594,1398,324,Pfizer/BioNTech
+Poland,POL,12/28/20,2000,2000,,,Pfizer/BioNTech
+Poland,POL,12/29/20,6300,6300,4300,114,Pfizer/BioNTech
+Poland,POL,12/30/20,36300,36300,17150,453,Pfizer/BioNTech
+Poland,POL,12/31/20,47600,47600,15200,402,Pfizer/BioNTech
+Poland,POL,1/1/21,,,11749,310,Pfizer/BioNTech
+Poland,POL,1/2/21,50391,50391,9678,256,Pfizer/BioNTech
+Poland,POL,1/3/21,50833,50833,8139,215,Pfizer/BioNTech
+Poland,POL,1/4/21,92220,92220,12889,341,Pfizer/BioNTech
+Poland,POL,1/5/21,140226,140226,19132,506,Pfizer/BioNTech
+Poland,POL,1/6/21,160359,160359,17723,468,Pfizer/BioNTech
+Poland,POL,1/7/21,188956,188956,20194,534,Pfizer/BioNTech
+Poland,POL,1/8/21,198787,198787,21399,565,Pfizer/BioNTech
+Poland,POL,1/9/21,200022,200022,21376,565,Pfizer/BioNTech
+Poland,POL,1/10/21,203053,203053,21746,575,Pfizer/BioNTech
+Poland,POL,1/11/21,257834,257834,23659,625,Pfizer/BioNTech
+Poland,POL,1/12/21,309620,309620,24199,639,Pfizer/BioNTech
+Poland,POL,1/13/21,369212,369212,29836,788,Pfizer/BioNTech
+Poland,POL,1/14/21,410480,410480,31646,836,Pfizer/BioNTech
+Poland,POL,1/15/21,436963,436963,34025,899,Pfizer/BioNTech
+Poland,POL,1/16/21,457303,457303,36754,971,Pfizer/BioNTech
+Poland,POL,1/17/21,469466,468795,38059,1006,Pfizer/BioNTech
+Poland,POL,1/18/21,495164,491696,33904,896,Pfizer/BioNTech
+Poland,POL,1/19/21,541229,530055,33087,874,Pfizer/BioNTech
+Poland,POL,1/20/21,591785,566793,31796,840,Pfizer/BioNTech
+Poland,POL,1/21/21,644999,605313,33503,885,Pfizer/BioNTech
+Poland,POL,1/22/21,684277,638798,35331,934,Pfizer/BioNTech
+Poland,POL,1/23/21,701164,654184,34837,920,Pfizer/BioNTech
+Portugal,PRT,12/27/20,4962,4962,,,Pfizer/BioNTech
+Portugal,PRT,12/28/20,7753,7753,2791,274,Pfizer/BioNTech
+Portugal,PRT,12/29/20,20367,20367,7702,755,Pfizer/BioNTech
+Portugal,PRT,12/30/20,30542,30542,8527,836,Pfizer/BioNTech
+Portugal,PRT,12/31/20,32747,32747,6946,681,Pfizer/BioNTech
+Portugal,PRT,1/1/21,32747,32747,5557,545,Pfizer/BioNTech
+Portugal,PRT,1/2/21,32748,32748,4631,454,Pfizer/BioNTech
+Portugal,PRT,1/3/21,32748,32748,3969,389,Pfizer/BioNTech
+Portugal,PRT,1/4/21,33668,33668,3702,363,Pfizer/BioNTech
+Portugal,PRT,1/5/21,46431,46431,3723,365,Pfizer/BioNTech
+Portugal,PRT,1/6/21,61452,61452,4416,433,Pfizer/BioNTech
+Portugal,PRT,1/7/21,71749,71749,5572,546,Pfizer/BioNTech
+Portugal,PRT,1/8/21,74252,74252,5929,581,Pfizer/BioNTech
+Portugal,PRT,1/9/21,74350,74350,5943,583,Pfizer/BioNTech
+Portugal,PRT,1/10/21,74390,74390,5949,583,Pfizer/BioNTech
+Portugal,PRT,1/11/21,75278,75278,5944,583,Pfizer/BioNTech
+Portugal,PRT,1/12/21,86108,86108,5668,556,Pfizer/BioNTech
+Portugal,PRT,1/13/21,99886,99886,5491,539,Pfizer/BioNTech
+Portugal,PRT,1/14/21,111035,111035,5612,550,Pfizer/BioNTech
+Portugal,PRT,1/15/21,118518,118518,6324,620,Pfizer/BioNTech
+Portugal,PRT,1/16/21,120053,120053,6529,640,Pfizer/BioNTech
+Portugal,PRT,1/17/21,121221,120060,6690,656,Pfizer/BioNTech
+Portugal,PRT,1/18/21,124625,122800,7050,691,Pfizer/BioNTech
+Portugal,PRT,1/19/21,148273,138832,8881,871,Pfizer/BioNTech
+Portugal,PRT,1/20/21,177113,158497,11032,1082,Pfizer/BioNTech
+Portugal,PRT,1/21/21,209690,186157,14094,1382,Pfizer/BioNTech
+Portugal,PRT,1/22/21,235449,209514,16704,1638,Pfizer/BioNTech
+Portugal,PRT,1/23/21,249891,219916,18548,1819,Pfizer/BioNTech
+Romania,ROU,12/28/20,2066,2066,,,Pfizer/BioNTech
+Romania,ROU,12/29/20,2778,2778,712,37,Pfizer/BioNTech
+Romania,ROU,12/30/20,5666,5666,1800,94,Pfizer/BioNTech
+Romania,ROU,12/31/20,10289,10289,2741,142,Pfizer/BioNTech
+Romania,ROU,1/1/21,11656,11656,2398,125,Pfizer/BioNTech
+Romania,ROU,1/2/21,13242,13242,2235,116,Pfizer/BioNTech
+Romania,ROU,1/3/21,13596,13596,1922,100,Pfizer/BioNTech
+Romania,ROU,1/4/21,25508,25508,3349,174,Pfizer/BioNTech
+Romania,ROU,1/5/21,41609,41609,5547,288,Pfizer/BioNTech
+Romania,ROU,1/6/21,58554,58554,7555,393,Pfizer/BioNTech
+Romania,ROU,1/7/21,76400,76400,9444,491,Pfizer/BioNTech
+Romania,ROU,1/8/21,92706,92706,11579,602,Pfizer/BioNTech
+Romania,ROU,1/9/21,102301,102301,12723,661,Pfizer/BioNTech
+Romania,ROU,1/10/21,108294,108294,13528,703,Pfizer/BioNTech
+Romania,ROU,1/11/21,125190,125190,14240,740,Pfizer/BioNTech
+Romania,ROU,1/12/21,140447,140447,14120,734,Pfizer/BioNTech
+Romania,ROU,1/13/21,154268,154268,13673,711,Pfizer/BioNTech
+Romania,ROU,1/14/21,167612,167612,13030,677,Pfizer/BioNTech
+Romania,ROU,1/15/21,183669,183669,12995,675,Pfizer/BioNTech
+Romania,ROU,1/16/21,196090,196090,13398,696,Pfizer/BioNTech
+Romania,ROU,1/17/21,205060,204185,13824,719,Pfizer/BioNTech
+Romania,ROU,1/18/21,235239,233288,15721,817,Pfizer/BioNTech
+Romania,ROU,1/19/21,270046,267424,18514,962,Pfizer/BioNTech
+Romania,ROU,1/20/21,308384,302570,22017,1144,Pfizer/BioNTech
+Romania,ROU,1/21/21,348096,338252,25783,1340,Pfizer/BioNTech
+Romania,ROU,1/22/21,385936,374681,28895,1502,Pfizer/BioNTech
+Romania,ROU,1/23/21,418885,406006,31828,1654,Pfizer/BioNTech
+Romania,ROU,1/24/21,446285,433129,34461,1791,Pfizer/BioNTech
+Russia,RUS,12/15/20,28500,28500,,,Sputnik V
+Russia,RUS,12/16/20,,,3357,23,Sputnik V
+Russia,RUS,12/17/20,,,3357,23,Sputnik V
+Russia,RUS,12/18/20,,,3357,23,Sputnik V
+Russia,RUS,12/19/20,,,3357,23,Sputnik V
+Russia,RUS,12/20/20,,,3357,23,Sputnik V
+Russia,RUS,12/21/20,,,3357,23,Sputnik V
+Russia,RUS,12/22/20,52000,52000,3357,23,Sputnik V
+Russia,RUS,12/23/20,,,12592,86,Sputnik V
+Russia,RUS,12/24/20,,,21827,150,Sputnik V
+Russia,RUS,12/25/20,,,31061,213,Sputnik V
+Russia,RUS,12/26/20,,,40296,276,Sputnik V
+Russia,RUS,12/27/20,,,49531,339,Sputnik V
+Russia,RUS,12/28/20,,,58765,403,Sputnik V
+Russia,RUS,12/29/20,,,68000,466,Sputnik V
+Russia,RUS,12/30/20,,,68000,466,Sputnik V
+Russia,RUS,12/31/20,,,68000,466,Sputnik V
+Russia,RUS,1/1/21,,,68000,466,Sputnik V
+Russia,RUS,1/2/21,800000,800000,68000,466,Sputnik V
+Russia,RUS,1/3/21,,,60883,417,Sputnik V
+Russia,RUS,1/4/21,,,53766,368,Sputnik V
+Russia,RUS,1/5/21,,,46649,320,Sputnik V
+Russia,RUS,1/6/21,,,39532,271,Sputnik V
+Russia,RUS,1/7/21,,,32416,222,Sputnik V
+Russia,RUS,1/8/21,,,25299,173,Sputnik V
+Russia,RUS,1/9/21,,,18182,125,Sputnik V
+Russia,RUS,1/10/21,,,18182,125,Sputnik V
+Russia,RUS,1/11/21,,,18182,125,Sputnik V
+Russia,RUS,1/12/21,,,18182,125,Sputnik V
+Russia,RUS,1/13/21,1000000,1000000,18182,125,Sputnik V
+Saudi Arabia,SAU,1/6/21,100000,100000,,,Pfizer/BioNTech
+Saudi Arabia,SAU,1/7/21,137862,137862,37862,1088,Pfizer/BioNTech
+Saudi Arabia,SAU,1/8/21,,,23990,689,Pfizer/BioNTech
+Saudi Arabia,SAU,1/9/21,,,19366,556,Pfizer/BioNTech
+Saudi Arabia,SAU,1/10/21,,,17055,490,Pfizer/BioNTech
+Saudi Arabia,SAU,1/11/21,178337,178337,15667,450,Pfizer/BioNTech
+Saudi Arabia,SAU,1/12/21,,,16312,469,Pfizer/BioNTech
+Saudi Arabia,SAU,1/13/21,,,16772,482,Pfizer/BioNTech
+Saudi Arabia,SAU,1/14/21,,,14153,407,Pfizer/BioNTech
+Saudi Arabia,SAU,1/15/21,,,15498,445,Pfizer/BioNTech
+Saudi Arabia,SAU,1/16/21,,,16843,484,Pfizer/BioNTech
+Saudi Arabia,SAU,1/17/21,295530,295530,18187,522,Pfizer/BioNTech
+Scotland,,12/13/20,18858,18858,,,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,,12/14/20,,,5821,1065,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,,12/15/20,,,5821,1065,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,,12/16/20,,,5821,1065,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,,12/17/20,,,5821,1065,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,,12/18/20,,,5821,1065,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,,12/19/20,,,5821,1065,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,,12/20/20,59608,59608,5821,1065,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,,12/21/20,,,5690,1041,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,,12/22/20,,,5558,1017,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,,12/23/20,,,5426,993,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,,12/24/20,,,5295,969,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,,12/25/20,,,5163,945,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,,12/26/20,,,5031,921,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,,12/27/20,93904,93904,4899,897,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,,12/28/20,,,4635,848,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,,12/29/20,,,4370,800,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,,12/30/20,,,4105,751,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,,12/31/20,,,3841,703,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,,1/1/21,,,3576,655,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,,1/2/21,,,3312,606,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,,1/3/21,115232,115194,3047,558,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,,1/4/21,,,3650,668,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,,1/5/21,,,4254,779,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,,1/6/21,,,4858,889,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,,1/7/21,,,5461,1000,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,,1/8/21,,,6065,1110,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,,1/9/21,,,6668,1221,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,,1/10/21,166135,163377,7272,1331,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,,1/11/21,178799,175942,8042,1472,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,,1/12/21,194955,191965,9311,1704,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,,1/13/21,211397,208207,10621,1944,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,,1/14/21,228171,224840,11979,2193,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,,1/15/21,,,12869,2356,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,,1/16/21,,,13760,2519,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,,1/17/21,268689,264991,14651,2682,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,,1/18/21,288468,284582,15667,2868,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,,1/19/21,314079,309909,17018,3115,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,,1/20/21,339337,334871,18277,3345,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,,1/21/21,363143,358454,19282,3529,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,,1/22/21,385855,380667,20597,3770,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,,1/23/21,409421,404038,22034,4033,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Serbia,SRB,1/8/21,7000,7000,,,"Pfizer/BioNTech, Sinopharm, Sputnik V"
+Serbia,SRB,1/9/21,,,1150,169,"Pfizer/BioNTech, Sinopharm, Sputnik V"
+Serbia,SRB,1/10/21,9300,9300,1150,169,"Pfizer/BioNTech, Sinopharm, Sputnik V"
+Serbia,SRB,1/11/21,,,1503,221,"Pfizer/BioNTech, Sinopharm, Sputnik V"
+Serbia,SRB,1/12/21,,,1680,247,"Pfizer/BioNTech, Sinopharm, Sputnik V"
+Serbia,SRB,1/13/21,,,1785,262,"Pfizer/BioNTech, Sinopharm, Sputnik V"
+Serbia,SRB,1/14/21,18136,18136,1856,273,"Pfizer/BioNTech, Sinopharm, Sputnik V"
+Serbia,SRB,1/15/21,,,2221,326,"Pfizer/BioNTech, Sinopharm, Sputnik V"
+Serbia,SRB,1/16/21,,,2687,395,"Pfizer/BioNTech, Sinopharm, Sputnik V"
+Serbia,SRB,1/17/21,,,3153,463,"Pfizer/BioNTech, Sinopharm, Sputnik V"
+Serbia,SRB,1/18/21,,,3468,510,"Pfizer/BioNTech, Sinopharm, Sputnik V"
+Serbia,SRB,1/19/21,,,3783,556,"Pfizer/BioNTech, Sinopharm, Sputnik V"
+Serbia,SRB,1/20/21,44611,44611,4098,602,"Pfizer/BioNTech, Sinopharm, Sputnik V"
+Serbia,SRB,1/21/21,84832,84832,9528,1400,"Pfizer/BioNTech, Sinopharm, Sputnik V"
+Serbia,SRB,1/22/21,119711,119711,13880,2040,"Pfizer/BioNTech, Sinopharm, Sputnik V"
+Serbia,SRB,1/23/21,163355,163355,19485,2864,"Pfizer/BioNTech, Sinopharm, Sputnik V"
+Seychelles,SYC,1/9/21,0,0,,,Sinopharm
+Seychelles,SYC,1/10/21,,,500,5084,Sinopharm
+Seychelles,SYC,1/11/21,,,500,5084,Sinopharm
+Seychelles,SYC,1/12/21,,,500,5084,Sinopharm
+Seychelles,SYC,1/13/21,2000,2000,500,5084,Sinopharm
+Seychelles,SYC,1/14/21,,,600,6101,Sinopharm
+Seychelles,SYC,1/15/21,4000,4000,667,6783,Sinopharm
+Seychelles,SYC,1/16/21,7000,7000,1000,10169,Sinopharm
+Seychelles,SYC,1/17/21,,,1118,11369,Sinopharm
+Seychelles,SYC,1/18/21,,,1236,12569,Sinopharm
+Seychelles,SYC,1/19/21,10976,10976,1354,13769,Sinopharm
+Seychelles,SYC,1/20/21,13163,13163,1595,16219,Sinopharm
+Seychelles,SYC,1/21/21,,,1718,17470,Sinopharm
+Seychelles,SYC,1/22/21,16890,16890,1841,18721,Sinopharm
+Seychelles,SYC,1/23/21,18353,18353,1622,16494,Sinopharm
+Singapore,SGP,1/11/21,3400,3400,,,Pfizer/BioNTech
+Singapore,SGP,1/12/21,6200,6200,2800,479,Pfizer/BioNTech
+Singapore,SGP,1/13/21,,,4090,699,Pfizer/BioNTech
+Singapore,SGP,1/14/21,,,4520,773,Pfizer/BioNTech
+Singapore,SGP,1/15/21,,,4735,809,Pfizer/BioNTech
+Singapore,SGP,1/16/21,,,4864,831,Pfizer/BioNTech
+Singapore,SGP,1/17/21,,,4950,846,Pfizer/BioNTech
+Singapore,SGP,1/18/21,,,5011,857,Pfizer/BioNTech
+Singapore,SGP,1/19/21,,,5380,920,Pfizer/BioNTech
+Singapore,SGP,1/20/21,,,5380,920,Pfizer/BioNTech
+Singapore,SGP,1/21/21,,,5380,920,Pfizer/BioNTech
+Singapore,SGP,1/22/21,60000,60000,5380,920,Pfizer/BioNTech
+Slovakia,SVK,1/4/21,0,0,,,Pfizer/BioNTech
+Slovakia,SVK,1/5/21,425,425,425,78,Pfizer/BioNTech
+Slovakia,SVK,1/6/21,6618,6618,3309,606,Pfizer/BioNTech
+Slovakia,SVK,1/7/21,13631,13631,4544,832,Pfizer/BioNTech
+Slovakia,SVK,1/8/21,20548,20548,5137,941,Pfizer/BioNTech
+Slovakia,SVK,1/9/21,22281,22281,4456,816,Pfizer/BioNTech
+Slovakia,SVK,1/10/21,25326,25326,4221,773,Pfizer/BioNTech
+Slovakia,SVK,1/11/21,29221,29221,4174,765,Pfizer/BioNTech
+Slovakia,SVK,1/12/21,39735,39735,5616,1029,Pfizer/BioNTech
+Slovakia,SVK,1/13/21,46243,46243,5661,1037,Pfizer/BioNTech
+Slovakia,SVK,1/14/21,53425,53425,5685,1041,Pfizer/BioNTech
+Slovakia,SVK,1/15/21,60753,60753,5744,1052,Pfizer/BioNTech
+Slovakia,SVK,1/16/21,61961,61961,5669,1038,Pfizer/BioNTech
+Slovakia,SVK,1/17/21,62015,62015,5241,960,Pfizer/BioNTech
+Slovakia,SVK,1/18/21,70998,70416,5968,1093,Pfizer/BioNTech
+Slovakia,SVK,1/19/21,78044,77005,5473,1002,Pfizer/BioNTech
+Slovakia,SVK,1/20/21,85338,83438,5585,1023,Pfizer/BioNTech
+Slovakia,SVK,1/21/21,92167,89635,5535,1014,Pfizer/BioNTech
+Slovenia,SVN,1/3/21,5934,5934,,,Pfizer/BioNTech
+Slovenia,SVN,1/4/21,7204,7204,1270,611,Pfizer/BioNTech
+Slovenia,SVN,1/5/21,8901,8901,1484,714,Pfizer/BioNTech
+Slovenia,SVN,1/6/21,12265,12265,2110,1015,Pfizer/BioNTech
+Slovenia,SVN,1/7/21,16339,16339,2601,1251,Pfizer/BioNTech
+Slovenia,SVN,1/8/21,19523,19523,2718,1307,Pfizer/BioNTech
+Slovenia,SVN,1/9/21,19930,19930,2333,1122,Pfizer/BioNTech
+Slovenia,SVN,1/10/21,20546,20546,2087,1004,Pfizer/BioNTech
+Slovenia,SVN,1/11/21,22484,22484,2183,1050,Pfizer/BioNTech
+Slovenia,SVN,1/12/21,24462,24462,2223,1069,Pfizer/BioNTech
+Slovenia,SVN,1/13/21,29561,29561,2471,1189,Pfizer/BioNTech
+Slovenia,SVN,1/14/21,35159,35159,2689,1293,Pfizer/BioNTech
+Slovenia,SVN,1/15/21,40778,40778,3036,1460,Pfizer/BioNTech
+Slovenia,SVN,1/16/21,41439,41439,3073,1478,Pfizer/BioNTech
+Slovenia,SVN,1/17/21,42035,42035,3070,1477,Pfizer/BioNTech
+Slovenia,SVN,1/18/21,43081,43081,2942,1415,Pfizer/BioNTech
+Slovenia,SVN,1/19/21,43869,43869,2772,1333,Pfizer/BioNTech
+Slovenia,SVN,1/20/21,46467,46467,2415,1162,Pfizer/BioNTech
+Slovenia,SVN,1/21/21,52098,46467,2420,1164,Pfizer/BioNTech
+Slovenia,SVN,1/22/21,54839,48170,2009,966,Pfizer/BioNTech
+Slovenia,SVN,1/23/21,55680,48717,2034,978,Pfizer/BioNTech
+Spain,ESP,1/4/21,82834,82834,,,"Moderna, Pfizer/BioNTech"
+Spain,ESP,1/5/21,139339,139339,56505,1209,"Moderna, Pfizer/BioNTech"
+Spain,ESP,1/6/21,,,45248,968,"Moderna, Pfizer/BioNTech"
+Spain,ESP,1/7/21,207323,207323,41496,888,"Moderna, Pfizer/BioNTech"
+Spain,ESP,1/8/21,277976,277976,48786,1043,"Moderna, Pfizer/BioNTech"
+Spain,ESP,1/9/21,,,47569,1017,"Moderna, Pfizer/BioNTech"
+Spain,ESP,1/10/21,,,46759,1000,"Moderna, Pfizer/BioNTech"
+Spain,ESP,1/11/21,406091,406091,46180,988,"Moderna, Pfizer/BioNTech"
+Spain,ESP,1/12/21,488122,488122,49826,1066,"Moderna, Pfizer/BioNTech"
+Spain,ESP,1/13/21,581638,581638,58330,1248,"Moderna, Pfizer/BioNTech"
+Spain,ESP,1/14/21,676186,676186,66980,1433,"Moderna, Pfizer/BioNTech"
+Spain,ESP,1/15/21,768950,768950,70139,1500,"Moderna, Pfizer/BioNTech"
+Spain,ESP,1/16/21,,,70181,1501,"Moderna, Pfizer/BioNTech"
+Spain,ESP,1/17/21,,,70223,1502,"Moderna, Pfizer/BioNTech"
+Spain,ESP,1/18/21,897942,895627,70264,1503,"Moderna, Pfizer/BioNTech"
+Spain,ESP,1/19/21,966097,956756,68282,1460,"Moderna, Pfizer/BioNTech"
+Spain,ESP,1/20/21,1025937,1010295,63471,1358,"Moderna, Pfizer/BioNTech"
+Spain,ESP,1/21/21,1103301,1054245,61016,1305,"Moderna, Pfizer/BioNTech"
+Spain,ESP,1/22/21,1165825,1097369,56696,1213,"Moderna, Pfizer/BioNTech"
+Sweden,SWE,12/27/20,4115,4115,,,Pfizer/BioNTech
+Sweden,SWE,12/28/20,,,3859,382,Pfizer/BioNTech
+Sweden,SWE,12/29/20,,,3859,382,Pfizer/BioNTech
+Sweden,SWE,12/30/20,,,3859,382,Pfizer/BioNTech
+Sweden,SWE,12/31/20,,,3859,382,Pfizer/BioNTech
+Sweden,SWE,1/1/21,,,3859,382,Pfizer/BioNTech
+Sweden,SWE,1/2/21,,,3859,382,Pfizer/BioNTech
+Sweden,SWE,1/3/21,31129,31129,3859,382,Pfizer/BioNTech
+Sweden,SWE,1/4/21,,,4294,425,Pfizer/BioNTech
+Sweden,SWE,1/5/21,,,4729,468,Pfizer/BioNTech
+Sweden,SWE,1/6/21,,,5165,511,Pfizer/BioNTech
+Sweden,SWE,1/7/21,,,5600,554,Pfizer/BioNTech
+Sweden,SWE,1/8/21,,,6035,598,Pfizer/BioNTech
+Sweden,SWE,1/9/21,,,6470,641,Pfizer/BioNTech
+Sweden,SWE,1/10/21,79466,79466,6905,684,Pfizer/BioNTech
+Sweden,SWE,1/11/21,,,7292,722,Pfizer/BioNTech
+Sweden,SWE,1/12/21,,,7680,760,Pfizer/BioNTech
+Sweden,SWE,1/13/21,,,8067,799,Pfizer/BioNTech
+Sweden,SWE,1/14/21,,,8454,837,Pfizer/BioNTech
+Sweden,SWE,1/15/21,,,8841,875,Pfizer/BioNTech
+Sweden,SWE,1/16/21,,,9228,914,Pfizer/BioNTech
+Sweden,SWE,1/17/21,146775,146775,9616,952,Pfizer/BioNTech
+Switzerland,CHE,12/23/20,0,0,,,Pfizer/BioNTech
+Switzerland,CHE,12/24/20,,,3000,347,Pfizer/BioNTech
+Switzerland,CHE,12/25/20,,,3000,347,Pfizer/BioNTech
+Switzerland,CHE,12/26/20,,,3000,347,Pfizer/BioNTech
+Switzerland,CHE,12/27/20,,,3000,347,Pfizer/BioNTech
+Switzerland,CHE,12/28/20,,,3000,347,Pfizer/BioNTech
+Switzerland,CHE,12/29/20,,,3000,347,Pfizer/BioNTech
+Switzerland,CHE,12/30/20,,,3000,347,Pfizer/BioNTech
+Switzerland,CHE,12/31/20,,,3000,347,Pfizer/BioNTech
+Switzerland,CHE,1/1/21,,,3000,347,Pfizer/BioNTech
+Switzerland,CHE,1/2/21,,,3000,347,Pfizer/BioNTech
+Switzerland,CHE,1/3/21,,,3000,347,Pfizer/BioNTech
+Switzerland,CHE,1/4/21,,,3000,347,Pfizer/BioNTech
+Switzerland,CHE,1/5/21,,,3000,347,Pfizer/BioNTech
+Switzerland,CHE,1/6/21,,,3000,347,Pfizer/BioNTech
+Switzerland,CHE,1/7/21,,,3000,347,Pfizer/BioNTech
+Switzerland,CHE,1/8/21,,,3000,347,Pfizer/BioNTech
+Switzerland,CHE,1/9/21,,,3000,347,Pfizer/BioNTech
+Switzerland,CHE,1/10/21,,,3000,347,Pfizer/BioNTech
+Switzerland,CHE,1/11/21,,,3000,347,Pfizer/BioNTech
+Switzerland,CHE,1/12/21,,,3000,347,Pfizer/BioNTech
+Switzerland,CHE,1/13/21,,,3000,347,Pfizer/BioNTech
+Switzerland,CHE,1/14/21,66000,66000,3000,347,Pfizer/BioNTech
+Switzerland,CHE,1/15/21,,,3829,442,Pfizer/BioNTech
+Switzerland,CHE,1/16/21,,,4657,538,Pfizer/BioNTech
+Switzerland,CHE,1/17/21,,,5486,634,Pfizer/BioNTech
+Switzerland,CHE,1/18/21,,,6314,730,Pfizer/BioNTech
+Switzerland,CHE,1/19/21,110000,110000,7143,825,Pfizer/BioNTech
+Switzerland,CHE,1/20/21,,,10984,1269,Pfizer/BioNTech
+Switzerland,CHE,1/21/21,169783,169783,14826,1713,Pfizer/BioNTech
+Turkey,TUR,1/13/21,0,0,,,Sinovac
+Turkey,TUR,1/14/21,279452,279452,279452,3313,Sinovac
+Turkey,TUR,1/15/21,616652,616652,308326,3656,Sinovac
+Turkey,TUR,1/16/21,676903,676903,225634,2675,Sinovac
+Turkey,TUR,1/17/21,706451,706451,176613,2094,Sinovac
+Turkey,TUR,1/18/21,832412,832412,166482,1974,Sinovac
+Turkey,TUR,1/19/21,950635,950635,158439,1879,Sinovac
+Turkey,TUR,1/20/21,1052493,1052493,150356,1783,Sinovac
+Turkey,TUR,1/21/21,1120258,1120258,120115,1424,Sinovac
+Turkey,TUR,1/22/21,1202212,1202212,83651,992,Sinovac
+Turkey,TUR,1/23/21,1226883,1226883,78569,932,Sinovac
+Turkey,TUR,1/24/21,1244653,1244653,76886,912,Sinovac
+United Arab Emirates,ARE,1/5/21,826301,,,,"Pfizer/BioNTech, Sinopharm"
+United Arab Emirates,ARE,1/6/21,,,30698,3104,"Pfizer/BioNTech, Sinopharm"
+United Arab Emirates,ARE,1/7/21,887697,,30698,3104,"Pfizer/BioNTech, Sinopharm"
+United Arab Emirates,ARE,1/8/21,941556,,38418,3884,"Pfizer/BioNTech, Sinopharm"
+United Arab Emirates,ARE,1/9/21,1020349,,48512,4905,"Pfizer/BioNTech, Sinopharm"
+United Arab Emirates,ARE,1/10/21,1086568,836568,52053,5263,"Pfizer/BioNTech, Sinopharm"
+United Arab Emirates,ARE,1/11/21,1167251,917251,56825,5745,"Pfizer/BioNTech, Sinopharm"
+United Arab Emirates,ARE,1/12/21,1275652,1025652,64193,6490,"Pfizer/BioNTech, Sinopharm"
+United Arab Emirates,ARE,1/13/21,1394580,1144580,76797,7765,"Pfizer/BioNTech, Sinopharm"
+United Arab Emirates,ARE,1/14/21,1527833,1277833,91448,9246,"Pfizer/BioNTech, Sinopharm"
+United Arab Emirates,ARE,1/15/21,1665987,1415987,103490,10464,"Pfizer/BioNTech, Sinopharm"
+United Arab Emirates,ARE,1/16/21,1797926,1547926,111082,11231,"Pfizer/BioNTech, Sinopharm"
+United Arab Emirates,ARE,1/17/21,1882778,1632778,113744,11500,"Pfizer/BioNTech, Sinopharm"
+United Arab Emirates,ARE,1/18/21,1971521,1721521,114896,11617,"Pfizer/BioNTech, Sinopharm"
+United Arab Emirates,ARE,1/19/21,2065367,1815367,112816,11407,"Pfizer/BioNTech, Sinopharm"
+United Arab Emirates,ARE,1/20/21,2161150,1911150,109510,11072,"Pfizer/BioNTech, Sinopharm"
+United Arab Emirates,ARE,1/21/21,2246069,1996069,102605,10374,"Pfizer/BioNTech, Sinopharm"
+United Arab Emirates,ARE,1/22/21,2339078,2089078,96156,9722,"Pfizer/BioNTech, Sinopharm"
+United Arab Emirates,ARE,1/23/21,2426798,2176798,89839,9083,"Pfizer/BioNTech, Sinopharm"
+United Arab Emirates,ARE,1/24/21,2487789,2237789,86430,8739,"Pfizer/BioNTech, Sinopharm"
+United Kingdom,GBR,12/20/20,667287,667287,,,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,GBR,12/21/20,,,46423,684,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,GBR,12/22/20,,,46423,684,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,GBR,12/23/20,,,46423,684,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,GBR,12/24/20,,,46423,684,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,GBR,12/25/20,,,46423,684,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,GBR,12/26/20,,,46423,684,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,GBR,12/27/20,992246,992246,46423,684,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,GBR,12/28/20,,,47738,703,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,GBR,12/29/20,,,49053,723,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,GBR,12/30/20,,,50369,742,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,GBR,12/31/20,,,51684,761,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,GBR,1/1/21,,,52999,781,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,GBR,1/2/21,,,54315,800,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,GBR,1/3/21,1381656,1360036,55630,819,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,GBR,1/4/21,,,74138,1092,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,GBR,1/5/21,,,92647,1365,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,GBR,1/6/21,,,111155,1637,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,GBR,1/7/21,,,129663,1910,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,GBR,1/8/21,,,148171,2183,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,GBR,1/9/21,,,166680,2455,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,GBR,1/10/21,2677971,2286572,185188,2728,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,GBR,1/11/21,2843815,2431648,182424,2687,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,GBR,1/12/21,3067541,2639309,187930,2768,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,GBR,1/13/21,3356229,2918252,202716,2986,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,GBR,1/14/21,3678180,3234946,222253,3274,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,GBR,1/15/21,4006440,3559179,242692,3575,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,GBR,1/16/21,4286830,3837094,256292,3775,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,GBR,1/17/21,4514802,4062501,262404,3865,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,GBR,1/18/21,4723443,4266577,268518,3955,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,GBR,1/19/21,5070365,4609740,286118,4215,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,GBR,1/20/21,5437284,4973248,297294,4379,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,GBR,1/21/21,5849899,5383103,310246,4570,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,GBR,1/22/21,6329968,5861351,331933,4890,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,GBR,1/23/21,6822981,6353321,362307,5337,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United States,USA,12/20/20,556208,556208,,,"Moderna, Pfizer/BioNTech"
+United States,USA,12/21/20,614117,614117,57909,175,"Moderna, Pfizer/BioNTech"
+United States,USA,12/22/20,,,127432,385,"Moderna, Pfizer/BioNTech"
+United States,USA,12/23/20,1008025,1008025,150606,455,"Moderna, Pfizer/BioNTech"
+United States,USA,12/24/20,,,191001,577,"Moderna, Pfizer/BioNTech"
+United States,USA,12/25/20,,,215238,650,"Moderna, Pfizer/BioNTech"
+United States,USA,12/26/20,1944585,1944585,231396,699,"Moderna, Pfizer/BioNTech"
+United States,USA,12/27/20,,,211379,639,"Moderna, Pfizer/BioNTech"
+United States,USA,12/28/20,2127143,2127143,216147,653,"Moderna, Pfizer/BioNTech"
+United States,USA,12/29/20,,,235685,712,"Moderna, Pfizer/BioNTech"
+United States,USA,12/30/20,2794588,2794588,255223,771,"Moderna, Pfizer/BioNTech"
+United States,USA,12/31/20,,,278776,842,"Moderna, Pfizer/BioNTech"
+United States,USA,1/1/21,,,302329,913,"Moderna, Pfizer/BioNTech"
+United States,USA,1/2/21,4225756,4225756,325882,985,"Moderna, Pfizer/BioNTech"
+United States,USA,1/3/21,,,336949,1018,"Moderna, Pfizer/BioNTech"
+United States,USA,1/4/21,4563260,4563260,348017,1051,"Moderna, Pfizer/BioNTech"
+United States,USA,1/5/21,4836469,4836469,339372,1025,"Moderna, Pfizer/BioNTech"
+United States,USA,1/6/21,5306797,5306797,358887,1084,"Moderna, Pfizer/BioNTech"
+United States,USA,1/7/21,5919418,5919418,378253,1143,"Moderna, Pfizer/BioNTech"
+United States,USA,1/8/21,6688231,6688231,419933,1269,"Moderna, Pfizer/BioNTech"
+United States,USA,1/9/21,,,461263,1394,"Moderna, Pfizer/BioNTech"
+United States,USA,1/10/21,,,546636,1651,"Moderna, Pfizer/BioNTech"
+United States,USA,1/11/21,8987322,8987322,632009,1909,"Moderna, Pfizer/BioNTech"
+United States,USA,1/12/21,9327138,9327138,641524,1938,"Moderna, Pfizer/BioNTech"
+United States,USA,1/13/21,10278462,,710238,2146,"Moderna, Pfizer/BioNTech"
+United States,USA,1/14/21,11148991,9690757,747082,2257,"Moderna, Pfizer/BioNTech"
+United States,USA,1/15/21,12279180,10595866,798707,2413,"Moderna, Pfizer/BioNTech"
+United States,USA,1/16/21,,,811670,2452,"Moderna, Pfizer/BioNTech"
+United States,USA,1/17/21,,,824632,2491,"Moderna, Pfizer/BioNTech"
+United States,USA,1/18/21,,,837595,2530,"Moderna, Pfizer/BioNTech"
+United States,USA,1/19/21,15707588,13595803,911493,2754,"Moderna, Pfizer/BioNTech"
+United States,USA,1/20/21,16525281,14270441,892403,2696,"Moderna, Pfizer/BioNTech"
+United States,USA,1/21/21,17546374,15053257,913912,2761,"Moderna, Pfizer/BioNTech"
+United States,USA,1/22/21,19107959,16243093,975540,2947,"Moderna, Pfizer/BioNTech"
+United States,USA,1/23/21,20537990,17390345,1057387,3194,"Moderna, Pfizer/BioNTech"
+Wales,,12/13/20,8181,8181,,,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,,12/14/20,,,2198,697,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,,12/15/20,,,2198,697,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,,12/16/20,,,2198,697,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,,12/17/20,,,2198,697,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,,12/18/20,,,2198,697,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,,12/19/20,,,2198,697,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,,12/20/20,23567,23567,2198,697,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,,12/21/20,,,2136,677,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,,12/22/20,,,2074,658,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,,12/23/20,,,2012,638,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,,12/24/20,,,1950,618,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,,12/25/20,,,1887,599,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,,12/26/20,,,1825,579,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,,12/27/20,35910,35910,1763,559,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,,12/28/20,,,1796,570,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,,12/29/20,,,1830,580,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,,12/30/20,,,1863,591,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,,12/31/20,,,1896,601,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,,1/1/21,,,1929,612,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,,1/2/21,,,1962,622,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,,1/3/21,49876,49851,1995,633,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,,1/4/21,,,2450,777,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,,1/5/21,,,2904,921,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,,1/6/21,,,3359,1065,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,,1/7/21,,,3814,1210,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,,1/8/21,,,4268,1354,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,,1/9/21,,,4723,1498,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,,1/10/21,86118,86039,5177,1642,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,,1/11/21,91336,91239,5183,1644,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,,1/12/21,101479,101371,5893,1869,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,,1/13/21,113094,112973,6812,2161,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,,1/14/21,126504,126375,7988,2534,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,,1/15/21,,,8460,2683,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,,1/16/21,,,8931,2833,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,,1/17/21,151938,151737,9403,2982,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,,1/18/21,162197,161932,10123,3211,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,,1/19/21,176186,175816,10672,3385,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,,1/20/21,190831,190435,11105,3522,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,,1/21/21,212732,212317,12318,3907,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,,1/22/21,241016,240547,15148,4804,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,,1/23/21,265054,264538,17371,5510,"Oxford/AstraZeneca, Pfizer/BioNTech"
