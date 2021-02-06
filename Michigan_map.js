@@ -14,7 +14,16 @@ d3.csv("Data/Data/Michigan_Covid_Vaccine_Data.csv").then(function(mi_data) {
 
 
 });  
-   
+var filteredData = mi_data.filter(function(d) 
+{ 
+
+        if( d["Persons Residence in County"] == "No County") 
+        { 
+            return d;
+        } 
+
+    });
+    //console.log(filteredData);
 });
 
 function dropdown () {
@@ -36,6 +45,6 @@ function dropdown () {
 dropdown();
 
 
-    function optionChanged(id) {
+    function optionChanged(county) {
      
     }
