@@ -1,3 +1,4 @@
+function buildPlot(county){
 d3.csv("Data/Data/Michigan_Covid_Vaccine_Data.csv").then(function(mi_data) {
  
   mi_data.forEach(function(data) {
@@ -17,7 +18,7 @@ d3.csv("Data/Data/Michigan_Covid_Vaccine_Data.csv").then(function(mi_data) {
 var filteredData = mi_data.filter(function(d) 
 { 
 
-        if( d["Persons Residence in County"] == "Delta") 
+        if( d["Persons Residence in County"] == county) 
         { 
             return d;
         } 
@@ -129,7 +130,7 @@ var bar_data = [{
   y: dose_index,
   type: 'bar',
   marker: {
-    color: '#C2767E',
+    color: '#043053',
     line: {
       color: 'rgb(20,20,20)',
       width: 1.5
@@ -148,7 +149,7 @@ var Info = d3.select("#sample-metadata");
 Info.html("")
 Info.append("p").text("Total Doses to Date: " +vaccine_total);
 });
-
+}
 function dropdown () {
   var menu=d3.select("#selDataset");
   d3.csv("Data/Data/Michigan_Covid_Vaccine_Data.csv").then(function(importedData) {
@@ -162,6 +163,7 @@ function dropdown () {
   unique.forEach(function(name){
   menu.append("option").text(name);
 });
+buildPlot(unique[0]);
   });
 
 }
@@ -169,5 +171,6 @@ dropdown();
 
 
     function optionChanged(county) {
+      buildPlot(county);
      
     }
