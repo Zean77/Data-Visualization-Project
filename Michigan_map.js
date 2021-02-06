@@ -17,13 +17,28 @@ d3.csv("Data/Data/Michigan_Covid_Vaccine_Data.csv").then(function(mi_data) {
 var filteredData = mi_data.filter(function(d) 
 { 
 
-        if( d["Persons Residence in County"] == "No County") 
+        if( d["Persons Residence in County"] == "Delta") 
         { 
             return d;
         } 
 
     });
     //console.log(filteredData);
+    var vaccine_array = [];
+    var moderna_num = 0;
+    var pfizer_num = 0;
+    
+    filteredData.forEach(function(data){
+      data.number = +data["Number of Doses"];
+
+      if(data['Vaccine Type'] == "Moderna" ) {
+        return moderna_num += data.number;}
+      else {return pfizer_num += data.number; }
+
+    });
+    vaccine_array.push("Moderna", moderna_num, "Pfizer", pfizer_num);
+    console.log(vaccine_array);
+  
 });
 
 function dropdown () {
