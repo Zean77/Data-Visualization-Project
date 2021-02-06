@@ -79,8 +79,8 @@ for (var i = 0; i < unique_facility.length; i++) {
     var Dates = [];
     var Doses =[]
     filteredFacility.forEach(function(data) {
-      
-      Dates.push(data['Date']);
+      data.date = new Date(data['Date']);
+      Dates.push(data.date);
       Doses.push(data['Number of Doses'])
       
 });
@@ -89,7 +89,20 @@ facility_array.push({Name:unique_facility[i], Date:Dates, Dose_Num:Doses});
 }
 //console.log(facility_array);
 var line_data = [];
-console.log(facility_array.length)
+for (var i = 0; i < facility_array.length; i++) {
+  trace = {
+    x: facility_array[i].Date,
+    y: facility_array[i].Dose_Num,
+    type:'bar',
+    name: facility_array[i].Name
+  };
+  line_data.push(trace);
+}
+//console.log(line_data);
+var line_layout = {
+  title:'Doses Given Each Day'
+};
+Plotly.newPlot('line', line_data, line_layout);
 });
 
 function dropdown () {
