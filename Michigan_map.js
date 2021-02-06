@@ -10,13 +10,27 @@ d3.csv("Data/Data/Michigan_Covid_Vaccine_Data.csv").then(function(mi_data) {
     data.dose = data["Dose Number"];
     data.date=(data["Date"]);
     data.total_doses=+data["Number of Doses"];
-    console.log("County:",data.county);
+    //console.log("County:",data.county);
 
 
 });  
    
 });
 
+function dropdown () {
+  var menu=d3.select("#selDataset");
+  d3.csv("Data/Data/Michigan_Covid_Vaccine_Data.csv").then(function(importedData) {
+    var counties = [];
+    importedData.forEach(function(d) {
+      d.county =d["Persons Residence in County"];
+   counties.push(d.county);
+    });
+    let unique = counties.filter((item, i, ar) => ar.indexOf(item) === i);
+console.log(unique);
+  });
+
+}
+dropdown();
 
 
     function optionChanged(id) {
