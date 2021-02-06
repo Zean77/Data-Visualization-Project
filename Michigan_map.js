@@ -46,12 +46,16 @@ var filteredData = mi_data.filter(function(d)
     var pie_data = [{
       values: vaccine_array,
       labels: vaccine_label,
-      type: 'pie'
+      type: 'pie',
+      marker: {
+        colors: ['#85A9B7','#043053' ]
+      },
     }];
 
     var pie_layout = {
       height: 400,
-      width: 400
+      width: 400,
+      title: "Vaccine Type"
     };
     Plotly.newPlot('pie', pie_data, pie_layout);
 // Get each health facility
