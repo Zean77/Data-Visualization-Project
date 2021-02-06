@@ -41,33 +41,37 @@
       <div class="col-md-12 jumbotron text-center">
         <h1>Michigan Vaccine Rollout</h1>
         <p>Use the interactive charts below to compare the counties</p>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-md-2">
-        <div class="well">
-          <h5>County:</h5>
-          <select id="selDataset" onchange="optionChanged(this.value)"></select>
-        </div>
-        <div class="panel panel-primary">
-          <div class="panel-heading">Info
-            <h3 class="panel-title"></h3>
+        <hr>
+        <div class="row">
+            <div class="col-md-2">
+              <div class="well">
+                <h5>County:</h5>
+                <select id="selDataset" onchange="optionChanged(this.value)"></select>
+              </div>
+              <br>
+              <div class="panel panel-primary">
+                <h5>Info:</h5>
+                <div class="panel-heading">
+                  <h3 class="panel-title"></h3>
+                </div>
+                <div id="sample-metadata" class="panel-body"></div>
+              </div>
+            </div>
+            <div class="col-md-5">
+              <div id="bar"></div>
+            </div>
+            <div class="col-md-5">
+              <div id="pie"></div>
+            </div>
           </div>
-          <div id="sample-metadata" class="panel-body"></div>
-        </div>
-      </div>
-      <div class="col-md-5">
-        <div id="bar"></div>
-      </div>
-      <div class="col-md-5">
-        <div id="pie"></div>
-      </div>
+          <div class="row">
+            <div class="col-md-12">
+              <div id="line"></div>
+            </div>
+          </div>
     </div>
-    <div class="row">
-      <div class="col-md-12">
-        <div id="line"></div>
-      </div>
     </div>
+   
   </div>
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.9.1/d3.min.js"></script>

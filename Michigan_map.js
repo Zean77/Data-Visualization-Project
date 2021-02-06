@@ -103,6 +103,11 @@ var line_layout = {
   title:'Doses Given Each Day'
 };
 Plotly.newPlot('line', line_data, line_layout);
+// Select meta-data from index
+var Info = d3.select("#sample-metadata");
+//clear form
+Info.html("")
+Info.append("p").text("Total Doses to Date: " +vaccine_total);
 });
 
 function dropdown () {
