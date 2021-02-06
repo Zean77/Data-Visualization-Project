@@ -1,36 +1,74 @@
-{% extends "base.html" %} {% block content %}
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <title>Vaccine Worldwide Data</title>
+  </head>
+
+  <body>
+    <nav class="navbar navbar-expand-md navbar-dark" style = "background-color:#043053;">
+      <a class="navbar-brand" href="/Home">Home</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="/viz">Data Visualizations</a>
+          </li>  
+          <li class="nav-item">
+            <a class="nav-link" href="/Michigan">Michigan Data</a>
+          </li>  
+          <li class="nav-item">
+              <a class="nav-link" href="/"> Worldwide Data</a>
+            </li>  
+        </ul>
+      </div>  
+  </nav>
+  <br>
+    <h1>Vaccine Worldwide Data</h1>
+
+    <div class="container">
+      <h1>COVID-19 Vaccine Distribution Worldwide</h1>
+    <div class="row">
+      
+      <div class="col-4">
+          <h5><font color="red">Top 20 Counties</font></h5>
+          <p>Country Vaccine Data Up to Jan 24, 2021.</p>
+          <table class="table-responsive-sm table-dark">
+          <thead>
+              <tr>
+              <th scope="col">Country</th>
+              <th scope="col">Confirmed Vaccines</tr>
+                  </tr>
+          </thead>
+          <tbody>
+      {% for pair in pairs %}
+      <tr>
+      <td>{{ pair[0]}}</td>
+      <td>{{ pair[1]}}</td>
+      </tr>
+      {% endfor %}
+      </tbody>
+      </table></div>
+      <div class="col-8">
+          <h5><font color="firebrick">Map of Vaccine Rollout.</font></h5>
+          <p>See the map below</p>
+          {{cmap|safe}}</div>
+          
+      </div>
+    </div>
+    <footer class="container-fluid text-center">
+      <p>University of Minnesota Data Visualization and Analytics Boot Camp</p>
+      </footer>
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  <!-- D3 JavaScript -->
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.2.3/d3.min.js"></script>
 
 
-<div class="container">
-    <h1>COVID-19 Vaccine Distribution Worldwide</h1>
-  <div class="row">
-    
-    <div class="col-4">
-        <h5><font color="red">Top 20 Counties</font></h5>
-        <p>Country Vaccine Data Up to Jan 24, 2021.</p>
-        <table class="table-responsive-sm table-dark">
-        <thead>
-            <tr>
-            <th scope="col">Country</th>
-            <th scope="col">Confirmed Vaccines</tr>
-                </tr>
-        </thead>
-        <tbody>
-    {% for pair in pairs %}
-    <tr>
-    <td>{{ pair[0]}}</td>
-    <td>{{ pair[1]}}</td>
-    </tr>
-    {% endfor %}
-    </tbody>
-    </table></div>
-    <div class="col-8">
-        <h5><font color="firebrick">Map of Vaccine Rollout.</font></h5>
-        <p>See the map below</p>
-        {{cmap|safe}}</div>
-        
-  </div>
-</div>
+  </body>
 
 
-{% endblock %}
+</html> 
