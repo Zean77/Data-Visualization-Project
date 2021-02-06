@@ -103,6 +103,41 @@ var line_layout = {
   title:'Doses Given Each Day'
 };
 Plotly.newPlot('line', line_data, line_layout);
+// Build Bar Chart
+var dose1 = 0;
+var dose2 = 0;
+var dose_index = [];
+filteredData.forEach(function(data){
+  data.number = +data["Number of Doses"];
+  
+  if(data['Dose Number'] == "First Dose" ) {
+    return dose1 += data.number;}
+  else {return dose2 += data.number; }
+
+});
+dose_index.push( dose1, dose2);
+console.log(dose_index);
+var dose_label = ["First Dose", "Second Dose"];
+
+//Make Bar chart
+var bar_data = [{
+  x: dose_label,
+  y: dose_index,
+  type: 'bar',
+  marker: {
+    color: '#C2767E',
+    line: {
+      color: 'rgb(20,20,20)',
+      width: 1.5
+    }}
+}];
+
+var bar_layout = {
+  height: 400,
+  width: 400,
+  title:"Doses Administered"
+};
+Plotly.newPlot('bar', bar_data, bar_layout);
 // Select meta-data from index
 var Info = d3.select("#sample-metadata");
 //clear form
