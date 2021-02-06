@@ -26,7 +26,10 @@ function dropdown () {
    counties.push(d.county);
     });
     let unique = counties.filter((item, i, ar) => ar.indexOf(item) === i);
-console.log(unique);
+//console.log(unique);
+  unique.forEach(function(name){
+  menu.append("option").text(name);
+});
   });
 
 }
