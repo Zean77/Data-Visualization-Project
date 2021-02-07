@@ -1,3 +1,4 @@
+function buildPlot(county){
 d3.csv("Data/Data/Michigan_Covid_Vaccine_Data.csv").then(function(mi_data) {
  
   mi_data.forEach(function(data) {
@@ -17,7 +18,7 @@ d3.csv("Data/Data/Michigan_Covid_Vaccine_Data.csv").then(function(mi_data) {
 var filteredData = mi_data.filter(function(d) 
 { 
 
-        if( d["Persons Residence in County"] == "Delta") 
+        if( d["Persons Residence in County"] == county) 
         { 
             return d;
         } 
@@ -46,12 +47,16 @@ var filteredData = mi_data.filter(function(d)
     var pie_data = [{
       values: vaccine_array,
       labels: vaccine_label,
-      type: 'pie'
+      type: 'pie',
+      marker: {
+        colors: ['#85A9B7','#043053' ]
+      },
     }];
 
     var pie_layout = {
       height: 400,
-      width: 400
+      width: 400,
+      title: "Vaccine Type"
     };
     Plotly.newPlot('pie', pie_data, pie_layout);
 // Get each health facility
@@ -79,8 +84,8 @@ for (var i = 0; i < unique_facility.length; i++) {
     var Dates = [];
     var Doses =[]
     filteredFacility.forEach(function(data) {
-      
-      Dates.push(data['Date']);
+      data.date = new Date(data['Date']);
+      Dates.push(data.date);
       Doses.push(data['Number of Doses'])
       
 });
@@ -89,9 +94,62 @@ facility_array.push({Name:unique_facility[i], Date:Dates, Dose_Num:Doses});
 }
 //console.log(facility_array);
 var line_data = [];
-console.log(facility_array.length)
-});
+for (var i = 0; i < facility_array.length; i++) {
+  trace = {
+    x: facility_array[i].Date,
+    y: facility_array[i].Dose_Num,
+    type:'bar',
+    name: facility_array[i].Name
+  };
+  line_data.push(trace);
+}
+//console.log(line_data);
+var line_layout = {
+  title:'Doses Given Each Day'
+};
+Plotly.newPlot('line', line_data, line_layout);
+// Build Bar Chart
+var dose1 = 0;
+var dose2 = 0;
+var dose_index = [];
+filteredData.forEach(function(data){
+  data.number = +data["Number of Doses"];
+  
+  if(data['Dose Number'] == "First Dose" ) {
+    return dose1 += data.number;}
+  else {return dose2 += data.number; }
 
+});
+dose_index.push( dose1, dose2);
+console.log(dose_index);
+var dose_label = ["First Dose", "Second Dose"];
+
+//Make Bar chart
+var bar_data = [{
+  x: dose_label,
+  y: dose_index,
+  type: 'bar',
+  marker: {
+    color: '#043053',
+    line: {
+      color: 'rgb(20,20,20)',
+      width: 1.5
+    }}
+}];
+
+var bar_layout = {
+  height: 400,
+  width: 400,
+  title:"Doses Administered"
+};
+Plotly.newPlot('bar', bar_data, bar_layout);
+// Select meta-data from index
+var Info = d3.select("#sample-metadata");
+//clear form
+Info.html("")
+Info.append("p").text("Total Doses to Date: " +vaccine_total);
+});
+}
 function dropdown () {
   var menu=d3.select("#selDataset");
   d3.csv("Data/Data/Michigan_Covid_Vaccine_Data.csv").then(function(importedData) {
@@ -105,6 +163,7 @@ function dropdown () {
   unique.forEach(function(name){
   menu.append("option").text(name);
 });
+buildPlot(unique[0]);
   });
 
 }
@@ -112,5 +171,6 @@ dropdown();
 
 
     function optionChanged(county) {
+      buildPlot(county);
      
     }

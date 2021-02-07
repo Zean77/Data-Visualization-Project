@@ -5,13 +5,13 @@
 <meta charset="utf-8">
 <meta name= "viewport" content = "width=device-width, initial scale=1">
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="static/style.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rubik">
 </head>
 </head>
 <body>
     <nav class="navbar navbar-expand-md navbar-dark" style = "background-color:#043053;">
-        <a class="navbar-brand" href="/Home">Home</a>
+        <a class="navbar-brand" href="/">Home</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -24,7 +24,7 @@
               <a class="nav-link" href="/Michigan">Michigan Data</a>
             </li>  
             <li class="nav-item">
-                <a class="nav-link" href="/"> World Data</a>
+                <a class="nav-link" href="/World"> World Data</a>
               </li>  
           </ul>
         </div>  
@@ -37,7 +37,7 @@
                 <div class= "jumbotron text-center">
                 <h1>Covid-19 Vaccination Rollout</h1>
                 <hr>
-                <img style = "max-width: 100%; height:auto;padding-bottom:20px" src="Images/Vaccination-Stock-Image.jpg" alt="Vaccine Photo" >
+                <img style = "max-width: 100%; height:auto;padding-bottom:20px" src="static/Images/Vaccination-Stock-Image.jpg" alt="Vaccine Photo" >
                 <br>
                 <p>Background information will go here?</p>
             </div>
@@ -46,12 +46,15 @@
         </div>
     </div>
     <footer class="container-fluid text-center">
-        <p>University of Minnesota Data Visualization and Analytics Boot Camp</p>
-      </footer>
-<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+      <p>University of Minnesota Data Visualization and Analytics Boot Camp</p>
+    </footer>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<script src="Michigan_map.js"></script>
+<script src="Data/Data/Michigan Covid Vaccine Data.csv"></script>
 <!-- D3 JavaScript -->
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.2.3/d3.min.js"></script>
+<!-- Load d3.js -->
 
 </body>
