@@ -14,7 +14,7 @@ from flask import Flask, jsonify
 import requests
 import json
 
-engine = create_engine("sqlite:///../Saif/Vaccine_DB.db")
+engine = create_engine("sqlite:///../Saif/data/Vaccine_DB.db")
 Base = automap_base()
 Base.prepare(engine, reflect=True)
 
