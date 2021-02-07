@@ -2,7 +2,7 @@ def find_top_daily_vaccinations(n = 20):
 
   import pandas as pd
 
-  vaccine_df=pd.read_csv("/Users/zean/Desktop/Data-Visualization-Project/Saif/Country Vaccine Data.csv")
+  vaccine_df=pd.read_csv("Country Vaccine Data.csv")
   by_Residence_Region = vaccine_df.groupby('country').sum()[['daily_vaccinations']]
   num_vacc = by_Residence_Region.nlargest(n, 'daily_vaccinations')[['daily_vaccinations']]
   return num_vacc
@@ -14,7 +14,7 @@ pairs=[(Residence_Region,daily_vaccinations) for Residence_Region,daily_vaccinat
 
 import folium
 import pandas as pd
-vaccine_df = pd.read_csv("/Users/zean/Desktop/Data-Visualization-Project/Saif/Country Vaccine Data.csv")
+vaccine_df = pd.read_csv("Country Vaccine Data.csv")
 vaccine_df=vaccine_df[['Lat','Long_','daily_vaccinations']]
 vaccine_df=vaccine_df.dropna()
 
@@ -34,7 +34,7 @@ from flask import Flask,render_template
 
 app=Flask(__name__)
 
-@app.route('/')
+@app.route('/World')
 def home():
     return render_template("home.html",table=num_vacc, cmap=html_map,pairs=pairs)
 
@@ -46,9 +46,9 @@ def Viz():
 def Michigan():
     return render_template("Michigan_data_page.html")
   
-@app.route('/Home')
+@app.route('/')
 def Home():
-    return render_template("home.html")
+    return render_template("index.html")
 # @app.route("/api/v1.0/Michigan/Michigan_Vaccine")
 # def Michigan():
 #     return render_template("")
