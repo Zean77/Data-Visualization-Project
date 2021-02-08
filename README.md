@@ -1,6 +1,6 @@
 # Data-Visualization-Project
 
-* Work Distribution:
+## Work Distribution:
 
     * Back End:
         * Database & Flask Server: Zean Zhang
@@ -14,7 +14,7 @@
             * U.S. States Vaccination Progress: Richard Lee
 
 
-# Visualization:
+## Visualization:
 
 * Home Page:
 [Image](Images/Home_Page.png)
