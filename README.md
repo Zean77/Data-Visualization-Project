@@ -8,10 +8,10 @@
     * Front End:
         * HTML Design: Gretchen Anderson, Saif Ahmed
 
-    * Visualizations: 
-        * COVID-19 World Vaccination Progress: Saif Ahmed 
-        * Michigan State Vaccination Progress: Gretchen Anderson
-        * U.S. States Vaccination Progress: Richard Lee
+        * Visualizations: 
+            * COVID-19 World Vaccination Progress: Saif Ahmed 
+            * Michigan State Vaccination Progress: Gretchen Anderson
+            * U.S. States Vaccination Progress: Richard Lee
 
 
 # Visualization:
