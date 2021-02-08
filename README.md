@@ -11,7 +11,6 @@
     * Visualizations: 
         * COVID-19 World Vaccination Progress: Saif Ahmed 
         * Michigan State Vaccination Progress: Gretchen Anderson
-        [Image](Images/Michigan_Vaccine_Rollout.png)
         * U.S. States Vaccination Progress: Richard Lee
 
 
