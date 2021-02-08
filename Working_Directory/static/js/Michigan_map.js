@@ -1,5 +1,5 @@
 function buildPlot(County_input){
-  d3.json("static/data/Michigan_Data.json").then(function(mi_data) {
+  d3.json("Working_Directory/data/Michigan_Data.json").then(function(mi_data) {
   //console.log(mi_data['county']);
   var Data = [];
  var  Data1 = mi_data.rows;
@@ -176,7 +176,7 @@ function buildPlot(County_input){
   }
   function dropdown () {
     var menu = d3.select("#selDataset");
-    d3.json("static/data/Michigan_Data.json").then(function(importedData) {
+    d3.json("Working_Directory/data/Michigan_Data.json").then(function(importedData) {
       var counties = [];
       for (var i = 0; i <importedData.rows.length; i++) {
         var County=(importedData.rows[i][4]);
