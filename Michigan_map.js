@@ -1,5 +1,5 @@
 function buildPlot(county){
-d3.csv("Data/Data/Michigan_Covid_Vaccine_Data.csv").then(function(mi_data) {
+d3.csv("Saif/Static/Michigan_Covid_Vaccine_Data.csv").then(function(mi_data) {
  
   mi_data.forEach(function(data) {
     data.year_range = data["Year Range"];
@@ -15,6 +15,7 @@ d3.csv("Data/Data/Michigan_Covid_Vaccine_Data.csv").then(function(mi_data) {
 
 
 });  
+console.log(mi_data);
 var filteredData = mi_data.filter(function(d) 
 { 
 
@@ -152,7 +153,7 @@ Info.append("p").text("Total Doses to Date: " +vaccine_total);
 }
 function dropdown () {
   var menu=d3.select("#selDataset");
-  d3.csv("Data/Data/Michigan_Covid_Vaccine_Data.csv").then(function(importedData) {
+  d3.csv("Saif/Static/Michigan_Covid_Vaccine_Data.csv").then(function(importedData) {
     var counties = [];
     importedData.forEach(function(d) {
       d.county =d["Persons Residence in County"];

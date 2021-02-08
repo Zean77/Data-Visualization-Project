@@ -14,7 +14,7 @@ from flask import Flask, jsonify
 import requests
 import json
 
-engine = create_engine("sqlite:///../Saif/data/Vaccine_DB.db")
+engine = create_engine("sqlite:///../Saif/static/data/Vaccine_DB.db")
 Base = automap_base()
 Base.prepare(engine, reflect=True)
 
@@ -99,7 +99,7 @@ html_map=m._repr_html_()
 from flask import Flask,render_template
 
 app=Flask(__name__)
-@app.route('/')
+@app.route('/World')
 def home():
     return render_template("home.html",table=num_vacc, cmap=html_map,pairs=pairs)
 
@@ -111,9 +111,9 @@ def Viz():
 def Michigan():
     return render_template("Michigan_data_page.html")
   
-@app.route('/Home')
+@app.route('/')
 def Home():
-    return render_template("home.html")
+    return render_template("index.html")
 
     
 if __name__=="__main__":
