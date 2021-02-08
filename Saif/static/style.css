@@ -1,0 +1,16 @@
+h1 {
+color: #C2767E;
+margin-top:0.5rem;
+font-family: "Rubik", sans-serif}
+
+.jumbotron {
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    border-radius: .3rem;
+background-color: #EEF7F4;
+}
+
+body {
+ background-color: #85A9B7;
+
+}
