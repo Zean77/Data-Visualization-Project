@@ -26,3 +26,4 @@
 [Image](Images/Michigan_Vaccine_Rollout.png)
 
 * U.S. States Vaccination Progress: Richard Lee:
+[Image](Images/US_State_Vaccine_Distribution.png)
