@@ -12,5 +12,13 @@ background-color: #EEF7F4;
 
 body {
  background-color: #85A9B7;
-
+    padding: 0;
+    margin: 0;
 }
+  /* set map, body, and html to 100% of the screen size */
+  #map
+ {
+	width:100%;
+height:100%;
+  }
+
